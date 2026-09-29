@@ -1,0 +1,2 @@
+# 只有 AI 分类（classify_stars.py --ai）需要；抓取和生成只用标准库
+anthropic>=0.70
