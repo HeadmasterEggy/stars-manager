@@ -1,0 +1,36 @@
+{
+  "_说明": "规则分类：按顺序匹配，命中第一个即归类。topics/keywords 不区分大小写，匹配仓库名、描述、topics；languages 为精确匹配。都不命中归入 fallback。",
+  "fallback": "其他",
+  "categories": [
+    {
+      "name": "AI Agent",
+      "emoji": "🤖",
+      "topics": ["agent", "ai-agent", "agents", "autonomous-agents", "multi-agent", "mcp", "model-context-protocol", "claude-code", "copilot", "coding-agent"],
+      "keywords": ["agent", "agents", "agentic", "mcp server", "autogpt", "crewai", "langgraph", "computer use", "browser use", "claude code", "codex"]
+    },
+    {
+      "name": "LLM & 大模型",
+      "emoji": "🧠",
+      "topics": ["llm", "large-language-models", "gpt", "chatgpt", "rag", "transformers", "deepseek", "llama", "fine-tuning", "prompt-engineering", "embeddings", "diffusion", "stable-diffusion", "machine-learning", "deep-learning", "pytorch", "nlp"],
+      "keywords": ["llm", "language model", "大模型", "gpt", "rag", "prompt", "transformer", "fine-tuning", "finetune", "inference", "embedding", "chatbot", "openai", "deepseek", "ollama", "diffusion", "machine learning", "deep learning"]
+    },
+    {
+      "name": "学习资源",
+      "emoji": "📚",
+      "topics": ["awesome", "awesome-list", "tutorial", "tutorials", "learning", "interview", "book", "books", "course", "roadmap", "cheatsheet", "education", "leetcode", "algorithms"],
+      "keywords": ["awesome", "tutorial", "教程", "学习", "面试", "roadmap", "book", "course", "guide", "指南", "笔记", "cheatsheet", "leetcode", "从零", "入门"]
+    },
+    {
+      "name": "Full Stack 开发",
+      "emoji": "🌐",
+      "topics": ["react", "vue", "nextjs", "frontend", "backend", "web", "nodejs", "typescript", "javascript", "css", "tailwindcss", "django", "flask", "fastapi", "spring-boot", "database", "api", "hexo", "blog", "static-site-generator"],
+      "keywords": ["react", "vue", "next.js", "frontend", "backend", "web", "full stack", "fullstack", "前端", "后端", "框架", "framework", "database", "hexo", "blog", "theme"]
+    },
+    {
+      "name": "工具脚本",
+      "emoji": "🛠️",
+      "topics": ["cli", "tool", "tools", "automation", "productivity", "script", "scripts", "terminal", "shell", "devtools", "obsidian", "obsidian-plugin", "macos", "docker", "github-actions"],
+      "keywords": ["cli", "tool", "tools", "工具", "automation", "自动化", "script", "脚本", "terminal", "shell", "plugin", "plugins", "插件", "extension", "obsidian", "docker"]
+    }
+  ]
+}

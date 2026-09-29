@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GitHub Stars</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #fff; --text: #1f2328; --muted: #656d76; --line: #d8dee4;
+    --accent: #2f6feb; --accent-soft: #e7efff; --bar: #8fb3ff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117; --card: #161b22; --text: #e6edf3; --muted: #8d96a0; --line: #30363d;
+      --accent: #4c8dff; --accent-soft: #1b2a45; --bar: #35598f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 26px; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; font-size: 13px; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .panel { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; }
+  .panel h2 { font-size: 13px; color: var(--muted); font-weight: 600; margin: 0 0 10px; }
+  .bar-row { display: grid; grid-template-columns: 110px 1fr 36px; gap: 8px; align-items: center; font-size: 13px; margin: 4px 0; }
+  .bar-row span:first-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .bar { height: 8px; border-radius: 4px; background: var(--bar); }
+  .bar-row span:last-child { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+  input, select { font: inherit; color: var(--text); background: var(--card); border: 1px solid var(--line);
+                  border-radius: 8px; padding: 8px 10px; }
+  input[type=search] { flex: 1 1 240px; min-width: 0; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .chip { border: 1px solid var(--line); background: var(--card); color: var(--text); border-radius: 999px;
+          padding: 4px 12px; font-size: 13px; cursor: pointer; }
+  .chip[aria-pressed=true] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .count { color: var(--muted); font-size: 13px; margin-bottom: 8px; }
+  .list { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+  .repo { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+          display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+  .repo a { color: var(--accent); font-weight: 600; text-decoration: none; word-break: break-all; }
+  .repo a:hover { text-decoration: underline; }
+  .repo p { margin: 0; color: var(--muted); font-size: 13px; flex: 1; overflow-wrap: anywhere; }
+  .meta { display: flex; flex-wrap: wrap; gap: 10px; font-size: 12px; color: var(--muted); }
+  .tag { background: var(--accent-soft); color: var(--accent); border-radius: 4px; padding: 0 6px; }
+  .empty { color: var(--muted); text-align: center; padding: 40px 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>🌟 我的 GitHub Stars</h1>
+  <p class="sub" id="sub">加载中…</p>
+
+  <section class="stats">
+    <div class="panel"><h2>分类</h2><div id="cat-bars"></div></div>
+    <div class="panel"><h2>语言 Top 8</h2><div id="lang-bars"></div></div>
+  </section>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="搜索名称、简介、语言、topic…" aria-label="搜索">
+    <select id="lang" aria-label="语言"><option value="">全部语言</option></select>
+    <select id="sort" aria-label="排序">
+      <option value="starred">最近 star</option>
+      <option value="stars">Star 数</option>
+      <option value="pushed">最近更新</option>
+      <option value="name">名称</option>
+    </select>
+  </div>
+  <div class="chips" id="chips"></div>
+  <div class="count" id="count"></div>
+  <div class="list" id="list"></div>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt = n => n >= 1000 ? (n / 1000).toFixed(1) + "k" : String(n);
+let DATA, activeCat = "";
+
+function bars(el, entries) {
+  const max = Math.max(1, ...entries.map(e => e[1]));
+  el.innerHTML = entries.map(([k, v]) =>
+    `<div class="bar-row"><span title="${esc(k)}">${esc(k)}</span><div class="bar" style="width:${(v / max * 100).toFixed(1)}%"></div><span>${v}</span></div>`
+  ).join("");
+}
+
+function render() {
+  const q = $("q").value.trim().toLowerCase();
+  const lang = $("lang").value;
+  const sort = $("sort").value;
+  let rows = DATA.repos.filter(r =>
+    (!activeCat || r.category === activeCat) &&
+    (!lang || r.language === lang) &&
+    (!q || `${r.full_name} ${r.description} ${r.language} ${r.topics.join(" ")}`.toLowerCase().includes(q)));
+  const key = {
+    starred: (a, b) => (b.starred_at || "").localeCompare(a.starred_at || ""),
+    stars: (a, b) => b.stars - a.stars,
+    pushed: (a, b) => (b.pushed_at || "").localeCompare(a.pushed_at || ""),
+    name: (a, b) => a.full_name.localeCompare(b.full_name),
+  }[sort];
+  rows.sort(key);
+  $("count").textContent = `显示 ${rows.length} / ${DATA.repos.length}`;
+  $("list").innerHTML = rows.length ? rows.map(r => `
+    <article class="repo">
+      <a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.full_name)}</a>
+      <p>${esc(r.description) || "<i>无简介</i>"}</p>
+      <div class="meta">
+        <span class="tag">${esc(r.category)}</span>
+        ${r.language ? `<span>${esc(r.language)}</span>` : ""}
+        <span>⭐ ${fmt(r.stars)}</span>
+        ${r.archived ? "<span>🗄️ 已归档</span>" : ""}
+        ${r.starred_at ? `<span>收藏于 ${esc(r.starred_at.slice(0, 10))}</span>` : ""}
+      </div>
+    </article>`).join("") : `<div class="empty">没有匹配的项目</div>`;
+}
+
+function renderChips() {
+  const counts = {};
+  DATA.repos.forEach(r => counts[r.category] = (counts[r.category] || 0) + 1);
+  const cats = [{name: "", emoji: "", label: `全部 ${DATA.repos.length}`},
+    ...DATA.categories.filter(c => counts[c.name]).map(c => ({...c, label: `${c.emoji} ${c.name} ${counts[c.name]}`}))];
+  $("chips").innerHTML = cats.map(c =>
+    `<button class="chip" data-cat="${esc(c.name)}" aria-pressed="${c.name === activeCat}">${esc(c.label)}</button>`).join("");
+  bars($("cat-bars"), DATA.categories.filter(c => counts[c.name]).map(c => [`${c.emoji} ${c.name}`, counts[c.name]]));
+}
+
+fetch("data.json").then(r => r.json()).then(d => {
+  DATA = d;
+  $("sub").textContent = `共 ${d.repos.length} 个项目 · 数据更新于 ${d.fetched_at.slice(0, 10)}`;
+  const langs = {};
+  d.repos.forEach(r => r.language && (langs[r.language] = (langs[r.language] || 0) + 1));
+  const sorted = Object.entries(langs).sort((a, b) => b[1] - a[1]);
+  bars($("lang-bars"), sorted.slice(0, 8));
+  $("lang").innerHTML += sorted.map(([l, n]) => `<option value="${esc(l)}">${esc(l)} (${n})</option>`).join("");
+  renderChips();
+  render();
+}).catch(() => { $("sub").textContent = "data.json 加载失败：先运行 generate_readme.py，并通过 HTTP 打开本页"; });
+
+$("chips").addEventListener("click", e => {
+  const b = e.target.closest(".chip");
+  if (!b) return;
+  activeCat = b.dataset.cat;
+  renderChips(); render();
+});
+["q", "lang", "sort"].forEach(id => $(id).addEventListener("input", render));
+</script>
+</body>
+</html>
