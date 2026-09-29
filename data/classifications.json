@@ -1,0 +1,990 @@
+{
+  "0voice/introduce_c-cpp_manual": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "1sadjlk/bounty-hunter-skill": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "233boy/v2ray": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "521xueweihan/HelloGitHub": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "649453932/Bert-Chinese-Text-Classification-Pytorch": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "649453932/Chinese-Text-Classification-Pytorch": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "AUTOMATIC1111/stable-diffusion-webui": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "AccumulateMore/CV": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "AlvinAi96/COI": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "Anglejuebi/ML_SentimentAnalysis": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "Asabeneh/30-Days-Of-Python": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "Bing-su/adetailer": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "BloothOfYouth/Computer-Network-Notes": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "ChatAnyTeam/ChatAny": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "ChatGPTBox-dev/chatGPTBox": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "ChatGPTNextWeb/NextChat": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "ChinaHarry23/Usyd-Mastery": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "Cocoon-AI/architecture-diagram-generator": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "CodingDocs/springboot-guide": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "ConardLi/easy-dataset": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "ConvLab/ConvLab-3": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "CorentinJ/Real-Time-Voice-Cloning": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "CosmosShadow/gptpdf": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "CyC2018/CS-Notes": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "D4Vinci/Scrapling": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "Daiyimo/Access-chatGPT-in-Siri": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "DietrichGebert/ponytail": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "DuGuQiuBai/Java": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "Dzy0726/Sentiment-Analysis-of-Customer-Reviews": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "Fictiverse/Redream": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "HCLonely/hexo-calendar": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "HandsOnLLM/Hands-On-Large-Language-Models": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "HazAT/pi-interactive-subagents": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "HeadmasterEggy/HeadmasterEggy.github.io": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "HeadmasterEggy/Java": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "HeadmasterEggy/shebi": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "HelloWorld521/Java": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "HyNetworks/hysteria": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "IRVING-L/Algorithm_fromBilibili": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "Jack-Cherish/Machine-Learning": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "Jakubantalik/Libraries.dev": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "JimLiu/baoyu-design": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "JohanyCheung/fsauor": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "K4ys0n/k4ys0n.github.io": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "KunAgent/Kun": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "LC044/WeChatMsg": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "Lilstanie/AI_TRIP_PLANNER": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "LinaHe888/Tutorial-15-Group-1": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "LorenzoAgnolucci/BERT_for_ABSA": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "Loyalsoldier/clash-rules": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "Meituan-Dianping/asap": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "MemTensor/memmy-agent": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "Miraclelucy/dive_into_deep_learning": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "Molunerfinn/PicGo": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "MustangYM/WeChatExtension-ForMac": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "NandhaKishorM/laya": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "NousResearch/hermes-agent": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "OWASP/wstg": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "OpenHands/OpenHands": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "PKUanonym/REKCARC-TSC-UHT": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "PetoiCamp/OpenCat-Quadruped-Robot": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "Platane/snk": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "Purestone/chitshit": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "Pythagora-io/gpt-pilot": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "RealKai42/qwerty-learner": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "RocketChat/Rocket.Chat": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "Significant-Gravitas/AutoGPT": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "SmallVagetable/machine_learning_python": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "SoulDGXu/Sentiment-Analysis-Chinese-pytorch": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "SurviveSJTU/SJTU-Application": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "SurviveSJTU/SurviveSJTUManual": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "THU-feiyue/docs": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "The-Run-Philosophy-Organization/run": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "VishwaGauravIn/VishwaGauravIn": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "VoltAgent/awesome-openclaw-skills": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "WangRongsheng/awesome-LLM-resources": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "Whisky-App/Whisky": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "X1a0He/Adobe-Downloader": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "ZhongFuCheng3y/athena": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "ZubinGou/multi-view-prompting": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "afatcoder/LeetcodeTop": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "alibaba/open-code-review": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "amosblomqvist/pi-config": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "amueller/word_cloud": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "anthropics/claude-cookbooks": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "antirez/sds": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "apple-aiml-research/ml-stable-diffusion": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "apvarun/graphize": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "archibate/babyjson-demo": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "atomashpolskiy/bt": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "awkoy/replicate-flux-mcp": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "ayuayue/PiDeck": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "bbdzs/Sorting-Visualization-bbdzs": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "bbruceyuan/AI-Interview-Code": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "bbruceyuan/Hands-On-Large-Language-Models-CN": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "bbruceyuan/LLMs-Zero-to-Hero": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "browser-use/jev-ultrafast": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "bstnxbt/dflash-mlx": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "can1357/oh-my-pi": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "can4hou6joeng4/boss-agent-cli": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "cf-pages/Telegraph-Image": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "chefyuan/algorithm-base": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "chengazhen/cursor-auto-free": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "city96/ComfyUI-GGUF": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "codertimo/BERT-pytorch": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "cosen1024/awesome-cs-books": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "dataelement/dsh-desktop": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "datawhalechina/pumpkin-book": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "deepseek-ai/DeepSeek-R1": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "deepseek-ai/DeepSeek-V3": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "deepseek-ai/deepseek-harness": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "deniscerri/ytdlnis": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "diaozxin007/xilidou-framework": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "divamgupta/diffusionbee-stable-diffusion-ui": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "dragen1860/Deep-Learning-with-TensorFlow-book": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "dragen1860/TensorFlow-2.x-Tutorials": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "dromara/Sa-Token": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "duilib/duilib": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "dyweb/awesome-resume-for-chinese": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "earendil-works/pi": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "easychen/lean-side-bussiness": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "ecomfe/echarts-wordcloud": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "erdengk/excellent-wheel": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "eternity4719/HowToLiveBetter": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "fengdu78/deeplearning_ai_books": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "ffffffff0x/1earn": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "findneo/Newbie-Security-List": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "firstcontributions/first-contributions": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "forhappy/Cplusplus-Concurrency-In-Practice": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "formulahendry/955.WLB": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "freeCodeCamp/freeCodeCamp": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "freestylefly/awesome-gpt-image-2": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "garrytan/gstack": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "ginqi7/dictionary-overlay": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "gkd-kit/gkd": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "gnipbao/gpt6-prompt-writer": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "google-research/bert": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "goto456/stopwords": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "graykode/nlp-tutorial": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "greebear/deeplearning.ai-notes": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "guaguaguaxia/weekly_report": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "guyoung/CaptfEncoder": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "hankcs/HanLP": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "hehonghui/awesome-english-ebooks": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "huangserva/ComfyUI_MiniMaxH3_Director": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "huggingface/transformers": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "iamseancheney/python_for_data_analysis_2nd_chinese_version": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "ifyour/cf-image-hosting": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "izackwu/TeachYourselfCS-CN": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "jackfrued/Python-100-Days": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "jackwener/OpenCLI": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "jadore801120/attention-is-all-you-need-pytorch": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "jakubkrehel/skills": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "javastacks/spring-boot-best-practice": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "jeecgboot/JeecgBoot": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "jeessy2/ddns-go": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "jiji262/douyin-downloader": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "kepano/obsidian-skills": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "koala73/worldmonitor": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "labuladong/fucking-algorithm": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "langchain-ai/langchain": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "lencx/ChatGPT": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "leslievan/semi-utils": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "levywang/avhub": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "lidangzzz/canada-run": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "lidangzzz/goal-driven": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "lihengming/spring-boot-api-project-seed": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "linguishi/chinese_sentiment": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "linhaojun857/aurora": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "liu-ziting/what-to-eat": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "lukas-blecher/LaTeX-OCR": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "lutzroeder/netron": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "magicuidesign/magicui": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "majinqiawa/xxn": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "mamba-org/mamba": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "martinadamsdev/remote-resume": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "mattnedrich/GradientDescentExample": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "mattpocock/skills": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "microsoft/markitdown": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "mkirchner/linked-list-good-taste": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "mlfoundations/task_vectors": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "mli/paper-reading": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "mraible/jhipster7-demo": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "mrkai77/Loop": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "mvanhorn/last30days-skill": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "mybatis-book/book": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "mybatis/mybatis-3": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "myhhub/KnowledgeGraph": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "myreader-io/myGPTReader": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "ncdai/chanhdai.com": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "netchx/netch": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "nicobailon/pi-subagents": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "nilbuild/developer-roadmap": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "oldwinter/knowledge-garden": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "ollama/ollama": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "op7418/guizang-ppt-skill": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "openai/chatgpt-retrieval-plugin": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "openai/codex": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "openai/whisper": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "openclaw/openclaw": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "openvinotoolkit/openvino": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "pagehelper-org/pagehelper-spring-boot": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "panyang/fastText-for-AI-Challenger-Sentiment-Analysis": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "pbakaus/impeccable": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "pcottle/learnGitBranching": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "piglei/ai-vocabulary-builder": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "pinchtab/pinchtab": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "privacy-protection-tools/anti-AD": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "public-apis/public-apis": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "rasbt/LLMs-from-scratch": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "redis/RedisInsight": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "refinedev/refine": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "resumejob/Leetcode-retag": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "robbertliu/deeplearning.ai-andrewNG": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "robinebers/openusage": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "runcat-dev/RunCat365": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "ruvnet/ruflo": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "satnaing/shadcn-admin": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "skypilot-org/skypilot": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "slowmist/openclaw-security-practice-guide": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "tensorflow/tensor2tensor": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "thedotmack/claude-mem": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "thu-coai/ConvLab-2": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "trekhleb/state-of-the-art-shitcode": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "trimstray/the-book-of-secret-knowledge": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "trycua/cua": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "tt-a1i/archify": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "typst/typst": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "ultraworkers/claw-code": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "upstash/context7": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "virus010101/linfeng-community": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "wind-liang/leetcode": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "wyf3/llm_related": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "xianmin/hugo-theme-jane": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "xiaolincoder/CS-Base": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "xkcoding/spring-boot-demo": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "xl7dev/BurpSuite": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "xlucn/oh-my-foss-android": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "xming521/WeClone": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "yangheng95/ABSADatasets": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "yeahwu/v2ray-wss": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
+  "yetone/magpie": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "yihong0618/bilingual_book_maker": {
+    "category": "学习资源",
+    "source": "rule"
+  },
+  "yudaocode/SpringBoot-Labs": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "zackelia/bclm": {
+    "category": "工具脚本",
+    "source": "rule"
+  }
+}
