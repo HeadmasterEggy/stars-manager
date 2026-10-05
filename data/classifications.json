@@ -151,6 +151,10 @@
     "category": "其他",
     "source": "rule"
   },
+  "HunxByts/GhostTrack": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
   "HyNetworks/hysteria": {
     "category": "其他",
     "source": "rule"
@@ -224,6 +228,10 @@
     "source": "rule"
   },
   "NandhaKishorM/laya": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "Niko1221/Strata": {
     "category": "LLM & 大模型",
     "source": "rule"
   },
@@ -405,6 +413,10 @@
   },
   "cf-pages/Telegraph-Image": {
     "category": "其他",
+    "source": "rule"
+  },
+  "chasmlol/SkyCraft": {
+    "category": "工具脚本",
     "source": "rule"
   },
   "chefyuan/algorithm-base": {
@@ -631,6 +643,10 @@
     "category": "工具脚本",
     "source": "rule"
   },
+  "karpathy/makemore": {
+    "category": "LLM & 大模型",
+    "source": "rule"
+  },
   "kepano/obsidian-skills": {
     "category": "AI Agent",
     "source": "rule"
@@ -683,6 +699,10 @@
     "category": "LLM & 大模型",
     "source": "rule"
   },
+  "lucasmarkes/hairline": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
   "lukas-blecher/LaTeX-OCR": {
     "category": "LLM & 大模型",
     "source": "rule"
@@ -729,6 +749,10 @@
   },
   "mli/paper-reading": {
     "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "modelcontextprotocol/python-sdk": {
+    "category": "AI Agent",
     "source": "rule"
   },
   "moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES": {
@@ -785,6 +809,10 @@
   },
   "ollama/ollama": {
     "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "ooolabdev/ooosplat": {
+    "category": "其他",
     "source": "rule"
   },
   "op7418/guizang-ppt-skill": {
@@ -925,6 +953,10 @@
   },
   "upstash/context7": {
     "category": "AI Agent",
+    "source": "rule"
+  },
+  "vinvcn/mattpocock-skills-zh-CN": {
+    "category": "其他",
     "source": "rule"
   },
   "virus010101/linfeng-community": {
