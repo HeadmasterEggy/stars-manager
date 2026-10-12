@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T09:06:09+00:00",
-  "fetched_at": "2026-10-05T09:06:08+00:00",
+  "generated_at": "2026-10-12T09:14:24+00:00",
+  "fetched_at": "2026-10-12T09:14:23+00:00",
   "categories": [
     {
       "name": "AI Agent",
@@ -29,12 +29,174 @@
   ],
   "repos": [
     {
+      "full_name": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "description": "",
+      "language": "Rust",
+      "topics": [],
+      "stars": 1026,
+      "archived": false,
+      "starred_at": "2026-10-12T03:58:44Z",
+      "pushed_at": "2026-10-12T08:09:10Z",
+      "category": "其他"
+    },
+    {
+      "full_name": "Ephemeral-AI-Lab/layerfs",
+      "url": "https://github.com/Ephemeral-AI-Lab/layerfs",
+      "description": "LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to branch, rewind, or reuse across parallel development, environment experiments, and MCTS-style rollouts.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 401,
+      "archived": false,
+      "starred_at": "2026-10-11T13:38:45Z",
+      "pushed_at": "2026-10-10T05:25:05Z",
+      "category": "AI Agent"
+    },
+    {
+      "full_name": "poteto/hiring-without-whiteboards",
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "description": "⭐️  Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "topics": [
+        "airtable",
+        "hiring",
+        "hiring-without-whiteboards",
+        "interview",
+        "jobs",
+        "tech",
+        "whiteboard"
+      ],
+      "stars": 52596,
+      "archived": false,
+      "starred_at": "2026-10-08T13:57:30Z",
+      "pushed_at": "2026-09-24T04:48:39Z",
+      "category": "学习资源"
+    },
+    {
+      "full_name": "shijianzhong/rea",
+      "url": "https://github.com/shijianzhong/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "",
+      "topics": [],
+      "stars": 707,
+      "archived": false,
+      "starred_at": "2026-10-08T07:41:57Z",
+      "pushed_at": "2026-10-07T23:39:52Z",
+      "category": "AI Agent"
+    },
+    {
+      "full_name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "description": "",
+      "language": "Lean",
+      "topics": [],
+      "stars": 14237,
+      "archived": false,
+      "starred_at": "2026-10-07T14:17:23Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "category": "其他"
+    },
+    {
+      "full_name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "topics": [
+        "bodyweight",
+        "docker",
+        "fitness",
+        "fitness-tracker",
+        "gym",
+        "health",
+        "mcp",
+        "nodejs",
+        "passkeys",
+        "progressive-web-applications",
+        "pwa",
+        "react",
+        "self-hosted",
+        "self-hosting",
+        "vite",
+        "webauthn",
+        "weightlifting",
+        "workout-tracker"
+      ],
+      "stars": 10010,
+      "archived": false,
+      "starred_at": "2026-10-06T16:00:19Z",
+      "pushed_at": "2026-10-11T00:34:13Z",
+      "category": "AI Agent"
+    },
+    {
+      "full_name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "topics": [
+        "e2e",
+        "e2e-testing",
+        "end-to-end-testing",
+        "mobile",
+        "mobile-testing",
+        "playwright",
+        "web"
+      ],
+      "stars": 9266,
+      "archived": false,
+      "starred_at": "2026-10-06T08:33:51Z",
+      "pushed_at": "2026-10-12T08:56:02Z",
+      "category": "Full Stack 开发"
+    },
+    {
+      "full_name": "neilsonnn/image-blaster",
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "description": "An image-to-world skillset for Claude.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 11186,
+      "archived": false,
+      "starred_at": "2026-10-05T19:08:29Z",
+      "pushed_at": "2026-05-15T01:36:10Z",
+      "category": "其他"
+    },
+    {
+      "full_name": "EverMind-AI/Raven",
+      "url": "https://github.com/EverMind-AI/Raven",
+      "description": "The Harness of Harnesses • built for RSI: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "codex",
+        "evermind",
+        "hermes",
+        "hermes-agent",
+        "llm",
+        "openai",
+        "openclaw",
+        "openhuman",
+        "recursive-self-improvement",
+        "rsi",
+        "rsi-ai",
+        "self-evolving",
+        "self-improving"
+      ],
+      "stars": 5390,
+      "archived": false,
+      "starred_at": "2026-10-05T18:08:35Z",
+      "pushed_at": "2026-10-12T09:12:16Z",
+      "category": "AI Agent"
+    },
+    {
       "full_name": "chasmlol/SkyCraft",
       "url": "https://github.com/chasmlol/SkyCraft",
       "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
       "language": "C++",
       "topics": [],
-      "stars": 913,
+      "stars": 1187,
       "archived": false,
       "starred_at": "2026-10-05T04:21:05Z",
       "pushed_at": "2026-10-01T01:37:21Z",
@@ -46,10 +208,10 @@
       "description": "这是 mattpocock/skills 的简体中文本地化版本。",
       "language": "JavaScript",
       "topics": [],
-      "stars": 4610,
+      "stars": 4773,
       "archived": false,
       "starred_at": "2026-10-04T19:04:19Z",
-      "pushed_at": "2026-09-28T07:50:41Z",
+      "pushed_at": "2026-10-08T13:46:19Z",
       "category": "其他"
     },
     {
@@ -65,10 +227,10 @@
         "svg",
         "typescript"
       ],
-      "stars": 405,
+      "stars": 1773,
       "archived": false,
       "starred_at": "2026-10-04T17:26:12Z",
-      "pushed_at": "2026-10-05T02:25:55Z",
+      "pushed_at": "2026-10-08T13:20:37Z",
       "category": "Full Stack 开发"
     },
     {
@@ -97,7 +259,7 @@
         "termux-hacks",
         "termux-tool"
       ],
-      "stars": 17078,
+      "stars": 18295,
       "archived": false,
       "starred_at": "2026-10-04T16:54:58Z",
       "pushed_at": "2024-01-11T15:36:46Z",
@@ -112,10 +274,10 @@
         "3d",
         "gaussian-splatting"
       ],
-      "stars": 1771,
+      "stars": 1939,
       "archived": false,
       "starred_at": "2026-10-03T13:25:20Z",
-      "pushed_at": "2026-10-04T16:53:20Z",
+      "pushed_at": "2026-10-12T02:47:54Z",
       "category": "其他"
     },
     {
@@ -124,7 +286,7 @@
       "description": "An autoregressive character-level language model for making more things",
       "language": "Python",
       "topics": [],
-      "stars": 4320,
+      "stars": 4459,
       "archived": false,
       "starred_at": "2026-10-03T08:41:16Z",
       "pushed_at": "2024-06-04T19:32:27Z",
@@ -141,10 +303,10 @@
         "mcp-server",
         "python"
       ],
-      "stars": 24487,
+      "stars": 24549,
       "archived": false,
       "starred_at": "2026-10-03T07:05:15Z",
-      "pushed_at": "2026-10-02T22:02:27Z",
+      "pushed_at": "2026-10-11T14:58:13Z",
       "category": "AI Agent"
     },
     {
@@ -153,10 +315,10 @@
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "language": "C++",
       "topics": [],
-      "stars": 12140,
+      "stars": 22100,
       "archived": false,
       "starred_at": "2026-10-03T06:59:19Z",
-      "pushed_at": "2026-10-04T12:32:47Z",
+      "pushed_at": "2026-10-11T14:37:54Z",
       "category": "LLM & 大模型"
     },
     {
@@ -172,10 +334,10 @@
         "llm",
         "macos"
       ],
-      "stars": 4980,
+      "stars": 9986,
       "archived": false,
       "starred_at": "2026-09-29T10:40:24Z",
-      "pushed_at": "2026-10-05T09:06:02Z",
+      "pushed_at": "2026-10-12T09:08:05Z",
       "category": "AI Agent"
     },
     {
@@ -199,7 +361,7 @@
         "tailwindcss",
         "ui"
       ],
-      "stars": 2363,
+      "stars": 2384,
       "archived": false,
       "starred_at": "2026-09-29T10:15:57Z",
       "pushed_at": "2026-09-26T19:05:08Z",
@@ -217,7 +379,7 @@
         "shadcn-admin",
         "shadcn-ui"
       ],
-      "stars": 15579,
+      "stars": 15711,
       "archived": false,
       "starred_at": "2026-09-27T05:10:40Z",
       "pushed_at": "2026-09-10T22:30:37Z",
@@ -229,7 +391,7 @@
       "description": "ComfyUI MiniMax H3 Director workflow",
       "language": "",
       "topics": [],
-      "stars": 1142,
+      "stars": 1267,
       "archived": false,
       "starred_at": "2026-09-26T14:26:57Z",
       "pushed_at": "2026-08-04T10:45:16Z",
@@ -241,10 +403,10 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "topics": [],
-      "stars": 276480,
+      "stars": 286989,
       "archived": false,
       "starred_at": "2026-09-26T12:28:12Z",
-      "pushed_at": "2026-10-05T08:37:41Z",
+      "pushed_at": "2026-10-12T08:46:48Z",
       "category": "AI Agent"
     },
     {
@@ -260,10 +422,10 @@
         "motion",
         "product"
       ],
-      "stars": 4069,
+      "stars": 4186,
       "archived": false,
       "starred_at": "2026-09-26T12:15:11Z",
-      "pushed_at": "2026-10-02T13:07:46Z",
+      "pushed_at": "2026-10-09T10:56:12Z",
       "category": "AI Agent"
     },
     {
@@ -279,10 +441,10 @@
         "harness",
         "repository-level-context"
       ],
-      "stars": 43778,
+      "stars": 46361,
       "archived": false,
       "starred_at": "2026-09-25T05:36:21Z",
-      "pushed_at": "2026-10-05T06:43:52Z",
+      "pushed_at": "2026-10-12T04:52:30Z",
       "category": "AI Agent"
     },
     {
@@ -305,10 +467,10 @@
         "resources",
         "software"
       ],
-      "stars": 486142,
+      "stars": 487744,
       "archived": false,
       "starred_at": "2026-09-24T16:59:23Z",
-      "pushed_at": "2026-10-05T04:32:07Z",
+      "pushed_at": "2026-10-11T20:42:26Z",
       "category": "Full Stack 开发"
     },
     {
@@ -317,10 +479,10 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "topics": [],
-      "stars": 76637,
+      "stars": 80043,
       "archived": false,
       "starred_at": "2026-09-24T15:19:47Z",
-      "pushed_at": "2026-10-05T09:02:56Z",
+      "pushed_at": "2026-10-12T03:48:59Z",
       "category": "其他"
     },
     {
@@ -338,7 +500,7 @@
         "prototyping",
         "ui-design"
       ],
-      "stars": 4251,
+      "stars": 4296,
       "archived": false,
       "starred_at": "2026-09-23T15:05:27Z",
       "pushed_at": "2026-09-23T05:34:49Z",
@@ -350,10 +512,10 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "topics": [],
-      "stars": 7466,
+      "stars": 7819,
       "archived": false,
       "starred_at": "2026-09-23T09:09:07Z",
-      "pushed_at": "2026-10-05T04:26:51Z",
+      "pushed_at": "2026-10-11T01:15:34Z",
       "category": "AI Agent"
     },
     {
@@ -362,10 +524,10 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "topics": [],
-      "stars": 127889,
+      "stars": 128760,
       "archived": false,
       "starred_at": "2026-09-22T18:45:39Z",
-      "pushed_at": "2026-10-05T02:22:03Z",
+      "pushed_at": "2026-10-11T23:45:00Z",
       "category": "AI Agent"
     },
     {
@@ -384,10 +546,10 @@
         "llm",
         "openai"
       ],
-      "stars": 90011,
+      "stars": 90662,
       "archived": false,
       "starred_at": "2026-09-22T15:14:47Z",
-      "pushed_at": "2026-10-05T07:57:16Z",
+      "pushed_at": "2026-10-12T05:50:30Z",
       "category": "AI Agent"
     },
     {
@@ -396,7 +558,7 @@
       "description": "GGUF Quantization support for native ComfyUI models",
       "language": "Python",
       "topics": [],
-      "stars": 4119,
+      "stars": 4151,
       "archived": false,
       "starred_at": "2026-09-22T13:52:55Z",
       "pushed_at": "2026-01-12T13:02:18Z",
@@ -422,10 +584,10 @@
         "typed-decisions",
         "zero-shot"
       ],
-      "stars": 30796,
+      "stars": 32452,
       "archived": false,
       "starred_at": "2026-09-22T09:52:06Z",
-      "pushed_at": "2026-10-04T18:51:33Z",
+      "pushed_at": "2026-10-12T08:53:56Z",
       "category": "LLM & 大模型"
     },
     {
@@ -434,10 +596,10 @@
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "language": "HTML",
       "topics": [],
-      "stars": 41954,
+      "stars": 60572,
       "archived": false,
       "starred_at": "2026-09-20T14:18:23Z",
-      "pushed_at": "2026-10-05T06:16:34Z",
+      "pushed_at": "2026-10-12T02:53:47Z",
       "category": "学习资源"
     },
     {
@@ -462,10 +624,10 @@
         "tui",
         "typescript"
       ],
-      "stars": 34326,
+      "stars": 35142,
       "archived": false,
       "starred_at": "2026-09-20T08:23:44Z",
-      "pushed_at": "2026-10-05T05:42:26Z",
+      "pushed_at": "2026-10-12T06:06:37Z",
       "category": "AI Agent"
     },
     {
@@ -474,10 +636,10 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 112539,
+      "stars": 114463,
       "archived": false,
       "starred_at": "2026-09-19T15:31:36Z",
-      "pushed_at": "2026-10-05T08:35:47Z",
+      "pushed_at": "2026-10-12T08:17:43Z",
       "category": "AI Agent"
     },
     {
@@ -486,10 +648,10 @@
       "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3849,
+      "stars": 3905,
       "archived": false,
       "starred_at": "2026-09-18T15:17:35Z",
-      "pushed_at": "2026-10-05T07:37:05Z",
+      "pushed_at": "2026-10-12T07:37:49Z",
       "category": "工具脚本"
     },
     {
@@ -510,7 +672,7 @@
       "description": "My personal pi config.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 1130,
+      "stars": 1151,
       "archived": false,
       "starred_at": "2026-09-18T13:08:33Z",
       "pushed_at": "2026-08-25T00:13:22Z",
@@ -519,7 +681,7 @@
     {
       "full_name": "ayuayue/PiDeck",
       "url": "https://github.com/ayuayue/PiDeck",
-      "description": "PiDeck 是一个开源的桌面工作台，用于在本地项目目录中统一管理 pi Agent 会话，并支持导入 Codex、Claude 本地会话以便统一浏览和恢复。支持多项目工作区、会话历史、Git 集成、内置终端、模型配置和插件管理，基于 Electron 构建。",
+      "description": "PiDeck 是一个开源的桌面工作台，用于在本地项目目录中统一管理 PI | DSH Agent 会话，并支持导入 Codex、Claude 本地会话以便统一浏览和恢复。支持多项目工作区、会话历史、Git 集成、内置终端、模型配置和插件管理，基于 Electron 构建。",
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -539,10 +701,10 @@
         "pidesktop",
         "session-management"
       ],
-      "stars": 1019,
+      "stars": 1053,
       "archived": false,
       "starred_at": "2026-09-18T13:08:12Z",
-      "pushed_at": "2026-10-05T09:04:10Z",
+      "pushed_at": "2026-10-12T09:12:15Z",
       "category": "AI Agent"
     },
     {
@@ -551,7 +713,7 @@
       "description": "Fastest and cheapest web agent",
       "language": "Python",
       "topics": [],
-      "stars": 22023,
+      "stars": 22680,
       "archived": false,
       "starred_at": "2026-09-18T09:50:08Z",
       "pushed_at": "2026-09-30T01:24:38Z",
@@ -574,10 +736,10 @@
         "prompt-engineering",
         "yagni"
       ],
-      "stars": 155361,
+      "stars": 161410,
       "archived": false,
       "starred_at": "2026-09-17T15:00:50Z",
-      "pushed_at": "2026-10-05T03:45:49Z",
+      "pushed_at": "2026-10-10T04:19:53Z",
       "category": "AI Agent"
     },
     {
@@ -607,10 +769,10 @@
         "swarm-intelligence",
         "typescript"
       ],
-      "stars": 73887,
+      "stars": 74386,
       "archived": false,
       "starred_at": "2026-09-17T14:59:47Z",
-      "pushed_at": "2026-10-05T09:03:48Z",
+      "pushed_at": "2026-10-12T08:44:57Z",
       "category": "AI Agent"
     },
     {
@@ -627,10 +789,10 @@
         "tailwindcss",
         "typescript"
       ],
-      "stars": 22470,
+      "stars": 22613,
       "archived": false,
       "starred_at": "2026-09-17T08:17:36Z",
-      "pushed_at": "2026-09-20T02:38:38Z",
+      "pushed_at": "2026-10-11T13:02:16Z",
       "category": "Full Stack 开发"
     },
     {
@@ -639,7 +801,7 @@
       "description": "GPT-6 Astra 提示词写作 Skill：基于官方指南生成、优化、压缩与诊断提示词，支持 Codex、Agent 和 Responses API。",
       "language": "Python",
       "topics": [],
-      "stars": 141,
+      "stars": 145,
       "archived": false,
       "starred_at": "2026-09-15T17:18:45Z",
       "pushed_at": "2026-09-13T07:55:04Z",
@@ -672,10 +834,10 @@
         "system-design",
         "visualization"
       ],
-      "stars": 77721,
+      "stars": 82299,
       "archived": false,
       "starred_at": "2026-09-13T21:00:43Z",
-      "pushed_at": "2026-10-05T07:12:39Z",
+      "pushed_at": "2026-10-12T04:54:47Z",
       "category": "AI Agent"
     },
     {
@@ -696,10 +858,10 @@
         "dshdesktop",
         "harness"
       ],
-      "stars": 11920,
+      "stars": 13462,
       "archived": false,
       "starred_at": "2026-09-12T05:24:09Z",
-      "pushed_at": "2026-10-03T06:21:54Z",
+      "pushed_at": "2026-10-12T09:10:21Z",
       "category": "AI Agent"
     },
     {
@@ -708,10 +870,10 @@
       "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
       "language": "Python",
       "topics": [],
-      "stars": 12189,
+      "stars": 12263,
       "archived": false,
       "starred_at": "2026-09-11T17:19:27Z",
-      "pushed_at": "2026-09-23T14:42:02Z",
+      "pushed_at": "2026-10-08T03:03:07Z",
       "category": "工具脚本"
     },
     {
@@ -725,10 +887,10 @@
         "dsh",
         "dsh-plugin"
       ],
-      "stars": 243631,
+      "stars": 247889,
       "archived": false,
       "starred_at": "2026-09-10T12:22:18Z",
-      "pushed_at": "2026-10-03T06:02:48Z",
+      "pushed_at": "2026-10-09T10:04:06Z",
       "category": "AI Agent"
     },
     {
@@ -758,10 +920,10 @@
         "personal-ai",
         "tui"
       ],
-      "stars": 2055,
+      "stars": 2090,
       "archived": false,
       "starred_at": "2026-09-09T18:08:53Z",
-      "pushed_at": "2026-09-30T12:23:27Z",
+      "pushed_at": "2026-10-12T08:59:16Z",
       "category": "AI Agent"
     },
     {
@@ -793,10 +955,10 @@
         "skills",
         "workflow-automation"
       ],
-      "stars": 33945,
+      "stars": 34329,
       "archived": false,
       "starred_at": "2026-09-08T14:59:47Z",
-      "pushed_at": "2026-10-03T09:56:12Z",
+      "pushed_at": "2026-10-09T14:23:36Z",
       "category": "AI Agent"
     },
     {
@@ -822,10 +984,10 @@
         "resume",
         "zhipin"
       ],
-      "stars": 2042,
+      "stars": 2071,
       "archived": false,
       "starred_at": "2026-09-06T14:08:53Z",
-      "pushed_at": "2026-10-04T04:21:56Z",
+      "pushed_at": "2026-10-12T08:19:24Z",
       "category": "AI Agent"
     },
     {
@@ -834,7 +996,7 @@
       "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified",
       "language": "",
       "topics": [],
-      "stars": 1679,
+      "stars": 1684,
       "archived": false,
       "starred_at": "2026-09-05T16:12:02Z",
       "pushed_at": "2026-03-18T14:05:38Z",
@@ -852,7 +1014,7 @@
         "latex",
         "resume"
       ],
-      "stars": 8514,
+      "stars": 8568,
       "archived": false,
       "starred_at": "2026-09-05T13:33:02Z",
       "pushed_at": "2026-07-22T14:48:43Z",
@@ -867,7 +1029,7 @@
       "stars": 4,
       "archived": false,
       "starred_at": "2026-08-24T01:48:09Z",
-      "pushed_at": "2026-10-05T07:52:15Z",
+      "pushed_at": "2026-10-12T08:40:27Z",
       "category": "其他"
     },
     {
@@ -908,10 +1070,10 @@
         "typescript",
         "writing-assistant"
       ],
-      "stars": 6318,
+      "stars": 6319,
       "archived": false,
       "starred_at": "2026-06-06T16:39:01Z",
-      "pushed_at": "2026-10-05T08:16:15Z",
+      "pushed_at": "2026-10-11T19:33:29Z",
       "category": "AI Agent"
     },
     {
@@ -932,7 +1094,7 @@
         "swiss-design",
         "web-ppt"
       ],
-      "stars": 27246,
+      "stars": 27656,
       "archived": false,
       "starred_at": "2026-05-12T10:45:38Z",
       "pushed_at": "2026-08-07T03:58:08Z",
@@ -962,7 +1124,7 @@
         "opencode",
         "skills"
       ],
-      "stars": 49155,
+      "stars": 49425,
       "archived": false,
       "starred_at": "2026-04-14T17:36:39Z",
       "pushed_at": "2026-09-15T14:43:57Z",
@@ -974,7 +1136,7 @@
       "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon",
       "language": "Python",
       "topics": [],
-      "stars": 787,
+      "stars": 788,
       "archived": false,
       "starred_at": "2026-04-14T14:31:05Z",
       "pushed_at": "2026-08-20T09:36:36Z",
@@ -986,7 +1148,7 @@
       "description": "Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.    ",
       "language": "HTML",
       "topics": [],
-      "stars": 7396,
+      "stars": 7419,
       "archived": false,
       "starred_at": "2026-04-14T12:13:17Z",
       "pushed_at": "2026-05-13T23:04:17Z",
@@ -1019,10 +1181,10 @@
         "sqlite",
         "supermemory"
       ],
-      "stars": 96300,
+      "stars": 99883,
       "archived": false,
       "starred_at": "2026-04-13T15:35:24Z",
-      "pushed_at": "2026-10-05T08:55:33Z",
+      "pushed_at": "2026-10-12T07:06:28Z",
       "category": "AI Agent"
     },
     {
@@ -1045,10 +1207,10 @@
         "nous-research",
         "openai"
       ],
-      "stars": 251284,
+      "stars": 252938,
       "archived": false,
       "starred_at": "2026-04-07T13:21:36Z",
-      "pushed_at": "2026-10-05T09:03:09Z",
+      "pushed_at": "2026-10-12T08:45:25Z",
       "category": "AI Agent"
     },
     {
@@ -1065,10 +1227,10 @@
         "cli",
         "playwright"
       ],
-      "stars": 29847,
+      "stars": 30092,
       "archived": false,
       "starred_at": "2026-04-04T19:03:20Z",
-      "pushed_at": "2026-09-24T18:55:16Z",
+      "pushed_at": "2026-10-12T05:56:03Z",
       "category": "AI Agent"
     },
     {
@@ -1083,10 +1245,10 @@
         "cursor",
         "subscription"
       ],
-      "stars": 4313,
+      "stars": 4347,
       "archived": false,
       "starred_at": "2026-04-02T20:38:43Z",
-      "pushed_at": "2026-10-04T14:23:30Z",
+      "pushed_at": "2026-10-12T06:49:17Z",
       "category": "AI Agent"
     },
     {
@@ -1095,10 +1257,10 @@
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
       "language": "Rust",
       "topics": [],
-      "stars": 195215,
+      "stars": 194964,
       "archived": false,
       "starred_at": "2026-03-31T13:38:33Z",
-      "pushed_at": "2026-08-16T06:18:45Z",
+      "pushed_at": "2026-10-11T20:40:00Z",
       "category": "AI Agent"
     },
     {
@@ -1107,10 +1269,10 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "topics": [],
-      "stars": 135255,
+      "stars": 136079,
       "archived": false,
       "starred_at": "2026-03-20T18:39:57Z",
-      "pushed_at": "2026-10-05T06:09:59Z",
+      "pushed_at": "2026-10-12T01:26:59Z",
       "category": "AI Agent"
     },
     {
@@ -1127,10 +1289,10 @@
         "stealth",
         "web-scraping"
       ],
-      "stars": 10336,
+      "stars": 10369,
       "archived": false,
       "starred_at": "2026-03-11T16:22:28Z",
-      "pushed_at": "2026-09-30T18:30:41Z",
+      "pushed_at": "2026-10-06T22:45:38Z",
       "category": "Full Stack 开发"
     },
     {
@@ -1176,10 +1338,10 @@
         "palantir",
         "situation"
       ],
-      "stars": 87794,
+      "stars": 88285,
       "archived": false,
       "starred_at": "2026-03-05T03:41:47Z",
-      "pushed_at": "2026-10-05T09:01:18Z",
+      "pushed_at": "2026-10-12T05:55:43Z",
       "category": "AI Agent"
     },
     {
@@ -1209,10 +1371,10 @@
         "webscraping",
         "xpath"
       ],
-      "stars": 85742,
+      "stars": 86916,
       "archived": false,
       "starred_at": "2026-03-05T03:36:13Z",
-      "pushed_at": "2026-10-04T19:47:53Z",
+      "pushed_at": "2026-10-11T12:12:09Z",
       "category": "AI Agent"
     },
     {
@@ -1242,10 +1404,10 @@
         "web-search",
         "youtube"
       ],
-      "stars": 63529,
+      "stars": 64022,
       "archived": false,
       "starred_at": "2026-03-05T02:45:48Z",
-      "pushed_at": "2026-10-04T18:44:09Z",
+      "pushed_at": "2026-10-11T19:10:49Z",
       "category": "AI Agent"
     },
     {
@@ -1279,10 +1441,10 @@
         "openclaw",
         "openclaw-skills"
       ],
-      "stars": 52955,
+      "stars": 53081,
       "archived": false,
       "starred_at": "2026-03-01T06:18:46Z",
-      "pushed_at": "2026-10-05T07:34:31Z",
+      "pushed_at": "2026-10-11T08:22:20Z",
       "category": "AI Agent"
     },
     {
@@ -1299,10 +1461,10 @@
         "own-your-data",
         "personal"
       ],
-      "stars": 391405,
+      "stars": 391737,
       "archived": false,
       "starred_at": "2026-02-27T04:07:54Z",
-      "pushed_at": "2026-10-05T09:05:26Z",
+      "pushed_at": "2026-10-12T09:14:16Z",
       "category": "其他"
     },
     {
@@ -1320,10 +1482,10 @@
         "mcp-server",
         "puppeteer"
       ],
-      "stars": 52971,
+      "stars": 53320,
       "archived": false,
       "starred_at": "2025-11-20T14:34:02Z",
-      "pushed_at": "2026-10-05T04:24:31Z",
+      "pushed_at": "2026-10-12T09:07:01Z",
       "category": "AI Agent"
     },
     {
@@ -1337,10 +1499,10 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 62696,
+      "stars": 62917,
       "archived": false,
       "starred_at": "2025-11-20T14:34:00Z",
-      "pushed_at": "2026-10-05T08:15:51Z",
+      "pushed_at": "2026-10-12T09:13:14Z",
       "category": "AI Agent"
     },
     {
@@ -1355,7 +1517,7 @@
         "svg-generator",
         "svg-mcp"
       ],
-      "stars": 106,
+      "stars": 105,
       "archived": false,
       "starred_at": "2025-11-20T14:31:33Z",
       "pushed_at": "2026-10-01T21:27:39Z",
@@ -1367,27 +1529,11 @@
       "description": "Editing Models with Task Arithmetic",
       "language": "Python",
       "topics": [],
-      "stars": 555,
+      "stars": 554,
       "archived": false,
       "starred_at": "2025-10-13T09:24:25Z",
       "pushed_at": "2024-01-11T17:11:00Z",
       "category": "其他"
-    },
-    {
-      "full_name": "liu-ziting/what-to-eat",
-      "url": "https://github.com/liu-ziting/what-to-eat",
-      "description": "一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。",
-      "language": "Vue",
-      "topics": [
-        "ai",
-        "gpt",
-        "vibe-coding"
-      ],
-      "stars": 3559,
-      "archived": false,
-      "starred_at": "2025-10-07T02:59:20Z",
-      "pushed_at": "2026-01-12T01:20:07Z",
-      "category": "LLM & 大模型"
     },
     {
       "full_name": "leslievan/semi-utils",
@@ -1395,7 +1541,7 @@
       "description": "一个批量添加相机机型和拍摄参数的工具，后续「可能」添加其他功能。",
       "language": "Python",
       "topics": [],
-      "stars": 1846,
+      "stars": 1848,
       "archived": false,
       "starred_at": "2025-06-12T16:28:47Z",
       "pushed_at": "2026-01-17T07:07:04Z",
@@ -1419,10 +1565,10 @@
         "kotlin-multiplatform",
         "webassembly"
       ],
-      "stars": 42504,
+      "stars": 42728,
       "archived": false,
       "starred_at": "2025-06-09T01:55:57Z",
-      "pushed_at": "2026-10-04T16:53:00Z",
+      "pushed_at": "2026-10-11T19:09:52Z",
       "category": "其他"
     },
     {
@@ -1437,7 +1583,7 @@
         "llm",
         "rag"
       ],
-      "stars": 14969,
+      "stars": 14993,
       "archived": false,
       "starred_at": "2025-06-06T04:22:55Z",
       "pushed_at": "2026-05-01T15:03:32Z",
@@ -1449,7 +1595,7 @@
       "description": "macOS Adobe apps download & installer",
       "language": "Swift",
       "topics": [],
-      "stars": 3544,
+      "stars": 3555,
       "archived": false,
       "starred_at": "2025-05-14T08:54:03Z",
       "pushed_at": "2026-06-22T02:15:02Z",
@@ -1467,10 +1613,10 @@
         "qwen",
         "telegram"
       ],
-      "stars": 18275,
+      "stars": 18291,
       "archived": false,
       "starred_at": "2025-05-11T16:27:36Z",
-      "pushed_at": "2026-10-03T10:03:29Z",
+      "pushed_at": "2026-10-09T16:09:01Z",
       "category": "LLM & 大模型"
     },
     {
@@ -1487,7 +1633,7 @@
         "openai",
         "pdf"
       ],
-      "stars": 188525,
+      "stars": 189687,
       "archived": false,
       "starred_at": "2025-04-20T03:11:41Z",
       "pushed_at": "2026-10-04T03:59:52Z",
@@ -1516,10 +1662,10 @@
         "tensorflow-lite",
         "visualizer"
       ],
-      "stars": 33545,
+      "stars": 33562,
       "archived": false,
       "starred_at": "2025-04-09T07:50:26Z",
-      "pushed_at": "2026-10-05T01:16:44Z",
+      "pushed_at": "2026-10-11T17:54:44Z",
       "category": "LLM & 大模型"
     },
     {
@@ -1528,7 +1674,7 @@
       "description": "中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。",
       "language": "Python",
       "topics": [],
-      "stars": 5728,
+      "stars": 5729,
       "archived": false,
       "starred_at": "2025-04-08T07:26:44Z",
       "pushed_at": "2020-09-23T11:28:21Z",
@@ -1540,7 +1686,7 @@
       "description": "使用Bert，ERNIE，进行中文文本分类",
       "language": "Python",
       "topics": [],
-      "stars": 4444,
+      "stars": 4443,
       "archived": false,
       "starred_at": "2025-04-08T07:26:31Z",
       "pushed_at": "2024-06-28T08:34:59Z",
@@ -1564,7 +1710,7 @@
       "description": "中文情感分析，CNN，BI-LSTM，文本分类",
       "language": "Python",
       "topics": [],
-      "stars": 1083,
+      "stars": 1082,
       "archived": false,
       "starred_at": "2025-04-01T05:35:21Z",
       "pushed_at": "2022-10-22T15:43:21Z",
@@ -1595,10 +1741,10 @@
         "windows",
         "windows-sandbox"
       ],
-      "stars": 28092,
+      "stars": 29440,
       "archived": false,
       "starred_at": "2025-03-31T07:14:22Z",
-      "pushed_at": "2026-10-05T07:32:40Z",
+      "pushed_at": "2026-10-12T09:13:24Z",
       "category": "AI Agent"
     },
     {
@@ -1612,7 +1758,7 @@
         "sentiment-analysis",
         "sentiment-classification"
       ],
-      "stars": 126,
+      "stars": 127,
       "archived": false,
       "starred_at": "2025-03-14T02:49:15Z",
       "pushed_at": "2022-03-03T10:46:40Z",
@@ -1624,7 +1770,7 @@
       "description": "ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction",
       "language": "",
       "topics": [],
-      "stars": 358,
+      "stars": 360,
       "archived": false,
       "starred_at": "2025-03-14T02:27:16Z",
       "pushed_at": "2021-05-27T03:17:01Z",
@@ -1636,7 +1782,7 @@
       "description": "R18 Resource Search & Management Tool",
       "language": "Vue",
       "topics": [],
-      "stars": 2729,
+      "stars": 2742,
       "archived": false,
       "starred_at": "2025-03-13T12:52:25Z",
       "pushed_at": "2026-04-18T06:02:34Z",
@@ -1700,10 +1846,10 @@
         "retrieval-augmented-generation",
         "webui"
       ],
-      "stars": 8998,
+      "stars": 9014,
       "archived": false,
       "starred_at": "2025-02-27T15:39:26Z",
-      "pushed_at": "2026-09-21T01:46:58Z",
+      "pushed_at": "2026-10-07T12:48:31Z",
       "category": "AI Agent"
     },
     {
@@ -1732,10 +1878,10 @@
         "spot-instances",
         "tpu"
       ],
-      "stars": 10677,
+      "stars": 10697,
       "archived": false,
       "starred_at": "2025-02-27T15:37:55Z",
-      "pushed_at": "2026-10-05T08:59:39Z",
+      "pushed_at": "2026-10-12T08:02:59Z",
       "category": "LLM & 大模型"
     },
     {
@@ -1753,7 +1899,7 @@
         "semantic-parsing",
         "text-classification"
       ],
-      "stars": 36505,
+      "stars": 36503,
       "archived": false,
       "starred_at": "2025-02-26T13:53:32Z",
       "pushed_at": "2026-09-15T06:50:15Z",
@@ -1848,7 +1994,7 @@
       "stars": 246,
       "archived": false,
       "starred_at": "2025-02-22T04:18:39Z",
-      "pushed_at": "2026-10-05T00:15:18Z",
+      "pushed_at": "2026-10-12T00:16:19Z",
       "category": "其他"
     },
     {
@@ -1889,10 +2035,10 @@
         "transformer",
         "vlm"
       ],
-      "stars": 166960,
+      "stars": 167550,
       "archived": false,
       "starred_at": "2025-02-19T10:03:47Z",
-      "pushed_at": "2026-10-05T08:50:34Z",
+      "pushed_at": "2026-10-12T09:11:51Z",
       "category": "LLM & 大模型"
     },
     {
@@ -1901,7 +2047,7 @@
       "description": "复现大模型相关算法及一些学习记录",
       "language": "Python",
       "topics": [],
-      "stars": 3541,
+      "stars": 3549,
       "archived": false,
       "starred_at": "2025-02-09T03:55:19Z",
       "pushed_at": "2026-07-02T16:44:56Z",
@@ -1919,7 +2065,7 @@
         "llm-interview",
         "llm-interview-code"
       ],
-      "stars": 618,
+      "stars": 619,
       "archived": false,
       "starred_at": "2025-01-30T07:58:05Z",
       "pushed_at": "2026-05-04T12:09:44Z",
@@ -1939,7 +2085,7 @@
         "oreilly",
         "oreilly-books"
       ],
-      "stars": 29455,
+      "stars": 29569,
       "archived": false,
       "starred_at": "2025-01-30T06:57:58Z",
       "pushed_at": "2026-04-24T10:20:08Z",
@@ -1956,7 +2102,7 @@
         "hans-on-llms",
         "llms"
       ],
-      "stars": 2950,
+      "stars": 2977,
       "archived": false,
       "starred_at": "2025-01-30T06:57:48Z",
       "pushed_at": "2026-10-02T13:51:20Z",
@@ -1968,7 +2114,7 @@
       "description": "",
       "language": "",
       "topics": [],
-      "stars": 91928,
+      "stars": 91900,
       "archived": false,
       "starred_at": "2025-01-27T08:51:07Z",
       "pushed_at": "2025-06-27T08:35:54Z",
@@ -1980,7 +2126,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 104514,
+      "stars": 104501,
       "archived": false,
       "starred_at": "2025-01-27T06:10:02Z",
       "pushed_at": "2025-08-28T03:24:37Z",
@@ -1997,7 +2143,7 @@
         "llm-zero-to-hero",
         "llm101"
       ],
-      "stars": 2298,
+      "stars": 2303,
       "archived": false,
       "starred_at": "2025-01-26T11:23:16Z",
       "pushed_at": "2026-10-02T13:51:41Z",
@@ -2014,10 +2160,10 @@
         "typesetting",
         "typst"
       ],
-      "stars": 56409,
+      "stars": 56568,
       "archived": false,
       "starred_at": "2025-01-26T05:23:37Z",
-      "pushed_at": "2026-10-02T12:47:26Z",
+      "pushed_at": "2026-10-09T16:09:32Z",
       "category": "其他"
     },
     {
@@ -2039,10 +2185,10 @@
         "yt-dlp",
         "yt-dlp-gui"
       ],
-      "stars": 10427,
+      "stars": 10542,
       "archived": false,
       "starred_at": "2025-01-02T06:31:55Z",
-      "pushed_at": "2026-10-04T07:41:35Z",
+      "pushed_at": "2026-10-11T19:18:58Z",
       "category": "其他"
     },
     {
@@ -2061,7 +2207,7 @@
         "vless",
         "vmess"
       ],
-      "stars": 17698,
+      "stars": 17700,
       "archived": false,
       "starred_at": "2024-12-31T01:48:11Z",
       "pushed_at": "2026-09-12T00:22:26Z",
@@ -2077,7 +2223,7 @@
         "v2ray",
         "vmess"
       ],
-      "stars": 29692,
+      "stars": 29714,
       "archived": false,
       "starred_at": "2024-11-30T12:35:00Z",
       "pushed_at": "2026-01-15T00:50:11Z",
@@ -2125,7 +2271,7 @@
         "question-answering",
         "relation-extraction"
       ],
-      "stars": 1707,
+      "stars": 1710,
       "archived": false,
       "starred_at": "2024-09-24T08:25:43Z",
       "pushed_at": "2023-09-18T07:13:59Z",
@@ -2137,7 +2283,7 @@
       "description": "通过阅读网上的资料代码，进行自我加工，努力实现常用的机器学习算法。实现算法有KNN、Kmeans、EM、Perceptron、决策树、逻辑回归、svm、adaboost、朴素贝叶斯",
       "language": "Python",
       "topics": [],
-      "stars": 736,
+      "stars": 737,
       "archived": false,
       "starred_at": "2024-09-24T07:51:15Z",
       "pushed_at": "2019-10-22T11:12:50Z",
@@ -2158,10 +2304,10 @@
         "swiftui",
         "window-management"
       ],
-      "stars": 11714,
+      "stars": 11772,
       "archived": false,
       "starred_at": "2024-08-07T14:31:50Z",
-      "pushed_at": "2026-10-05T05:08:08Z",
+      "pushed_at": "2026-10-09T17:58:13Z",
       "category": "工具脚本"
     },
     {
@@ -2170,10 +2316,10 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 53205,
+      "stars": 53369,
       "archived": false,
       "starred_at": "2024-07-16T01:33:30Z",
-      "pushed_at": "2026-09-28T16:56:36Z",
+      "pushed_at": "2026-10-10T09:24:55Z",
       "category": "其他"
     },
     {
@@ -2195,7 +2341,7 @@
         "smo",
         "svm"
       ],
-      "stars": 10396,
+      "stars": 10400,
       "archived": false,
       "starred_at": "2024-06-30T12:37:33Z",
       "pushed_at": "2024-07-12T11:28:35Z",
@@ -2213,7 +2359,7 @@
         "macos",
         "smc"
       ],
-      "stars": 2188,
+      "stars": 2193,
       "archived": false,
       "starred_at": "2024-06-30T12:36:05Z",
       "pushed_at": "2025-11-07T21:48:26Z",
@@ -2254,7 +2400,7 @@
         "python",
         "rag"
       ],
-      "stars": 23885,
+      "stars": 23981,
       "archived": false,
       "starred_at": "2024-04-21T13:54:48Z",
       "pushed_at": "2026-09-20T00:41:31Z",
@@ -2272,7 +2418,7 @@
         "reinforcement-learning",
         "tpu"
       ],
-      "stars": 17473,
+      "stars": 17477,
       "archived": true,
       "starred_at": "2024-04-14T12:51:55Z",
       "pushed_at": "2023-06-02T18:55:09Z",
@@ -2291,7 +2437,7 @@
         "nlp",
         "pytorch"
       ],
-      "stars": 9808,
+      "stars": 9815,
       "archived": false,
       "starred_at": "2024-04-14T12:50:59Z",
       "pushed_at": "2024-04-16T07:27:13Z",
@@ -2309,7 +2455,7 @@
         "nlp",
         "tensorflow"
       ],
-      "stars": 40047,
+      "stars": 40037,
       "archived": true,
       "starred_at": "2024-04-14T12:28:12Z",
       "pushed_at": "2024-07-23T23:39:41Z",
@@ -2327,7 +2473,7 @@
         "pytorch",
         "transformer"
       ],
-      "stars": 6530,
+      "stars": 6529,
       "archived": false,
       "starred_at": "2024-04-14T12:26:20Z",
       "pushed_at": "2023-09-15T12:57:08Z",
@@ -2341,7 +2487,7 @@
       "topics": [
         "echarts"
       ],
-      "stars": 1819,
+      "stars": 1818,
       "archived": false,
       "starred_at": "2024-04-13T13:10:25Z",
       "pushed_at": "2024-03-12T02:35:10Z",
@@ -2353,7 +2499,7 @@
       "description": "A little word cloud generator in Python",
       "language": "Python",
       "topics": [],
-      "stars": 10536,
+      "stars": 10538,
       "archived": false,
       "starred_at": "2024-04-13T12:15:47Z",
       "pushed_at": "2026-01-22T01:57:37Z",
@@ -2386,10 +2532,10 @@
         "rag",
         "typescript"
       ],
-      "stars": 147451,
+      "stars": 147665,
       "archived": false,
       "starred_at": "2024-04-01T03:37:35Z",
-      "pushed_at": "2026-10-05T08:41:46Z",
+      "pushed_at": "2026-10-12T09:10:32Z",
       "category": "AI Agent"
     },
     {
@@ -2408,7 +2554,7 @@
         "transformer",
         "tutorial"
       ],
-      "stars": 14933,
+      "stars": 14937,
       "archived": false,
       "starred_at": "2024-03-28T08:12:53Z",
       "pushed_at": "2024-02-21T13:49:10Z",
@@ -2438,10 +2584,10 @@
         "surge",
         "v2ray"
       ],
-      "stars": 28667,
+      "stars": 28771,
       "archived": false,
       "starred_at": "2024-03-05T02:09:31Z",
-      "pushed_at": "2026-10-04T22:38:49Z",
+      "pushed_at": "2026-10-11T22:41:11Z",
       "category": "其他"
     },
     {
@@ -2466,10 +2612,10 @@
         "ollama",
         "qwen"
       ],
-      "stars": 182218,
+      "stars": 182824,
       "archived": false,
       "starred_at": "2024-03-03T01:13:01Z",
-      "pushed_at": "2026-10-04T23:16:41Z",
+      "pushed_at": "2026-10-12T06:25:26Z",
       "category": "LLM & 大模型"
     },
     {
@@ -2482,7 +2628,7 @@
         "numpy",
         "pandas"
       ],
-      "stars": 9010,
+      "stars": 9011,
       "archived": false,
       "starred_at": "2024-02-29T07:37:32Z",
       "pushed_at": "2026-08-26T01:32:23Z",
@@ -2498,7 +2644,7 @@
         "paper",
         "reading-list"
       ],
-      "stars": 33900,
+      "stars": 33927,
       "archived": false,
       "starred_at": "2024-02-27T12:57:28Z",
       "pushed_at": "2025-03-22T03:49:35Z",
@@ -2516,7 +2662,7 @@
         "shadowsocks",
         "v2ray"
       ],
-      "stars": 3742,
+      "stars": 3743,
       "archived": false,
       "starred_at": "2024-02-24T08:55:04Z",
       "pushed_at": "2026-03-11T17:01:39Z",
@@ -2528,7 +2674,7 @@
       "description": "吴恩达《深度学习》学习笔记(xmind)、代码视频讲解",
       "language": "",
       "topics": [],
-      "stars": 481,
+      "stars": 482,
       "archived": false,
       "starred_at": "2024-02-18T05:40:35Z",
       "pushed_at": "2020-04-15T09:57:14Z",
@@ -2543,7 +2689,7 @@
         "interview",
         "leetcode"
       ],
-      "stars": 20047,
+      "stars": 20048,
       "archived": false,
       "starred_at": "2024-02-13T12:57:51Z",
       "pushed_at": "2024-03-13T11:52:55Z",
@@ -2560,7 +2706,7 @@
         "pyqt",
         "wechat"
       ],
-      "stars": 42091,
+      "stars": 42088,
       "archived": false,
       "starred_at": "2024-02-03T09:36:11Z",
       "pushed_at": "2025-12-30T13:31:16Z",
@@ -2602,7 +2748,7 @@
         "telegraph",
         "upload-images"
       ],
-      "stars": 4695,
+      "stars": 4689,
       "archived": false,
       "starred_at": "2024-02-01T08:56:29Z",
       "pushed_at": "2026-07-27T03:57:46Z",
@@ -2614,7 +2760,7 @@
       "description": "🥊  Free & Unlimited Image Hosting",
       "language": "JavaScript",
       "topics": [],
-      "stars": 656,
+      "stars": 655,
       "archived": true,
       "starred_at": "2024-02-01T00:51:44Z",
       "pushed_at": "2024-05-02T13:29:43Z",
@@ -2633,7 +2779,7 @@
         "sso",
         "token"
       ],
-      "stars": 19064,
+      "stars": 19072,
       "archived": false,
       "starred_at": "2024-01-29T12:22:14Z",
       "pushed_at": "2026-09-27T11:46:26Z",
@@ -2653,7 +2799,7 @@
         "open-source",
         "opensource"
       ],
-      "stars": 5135,
+      "stars": 5147,
       "archived": false,
       "starred_at": "2024-01-29T08:42:32Z",
       "pushed_at": "2026-09-08T08:39:48Z",
@@ -2685,7 +2831,7 @@
         "tokenizer",
         "transformers"
       ],
-      "stars": 106029,
+      "stars": 106403,
       "archived": false,
       "starred_at": "2024-01-29T00:12:46Z",
       "pushed_at": "2026-10-02T14:55:52Z",
@@ -2744,7 +2890,7 @@
         "vision-transformer",
         "vit"
       ],
-      "stars": 16580,
+      "stars": 16587,
       "archived": false,
       "starred_at": "2023-11-26T06:43:15Z",
       "pushed_at": "2025-01-18T15:23:58Z",
@@ -2756,7 +2902,7 @@
       "description": "✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。",
       "language": "Python",
       "topics": [],
-      "stars": 3100,
+      "stars": 3107,
       "archived": false,
       "starred_at": "2023-11-22T07:22:40Z",
       "pushed_at": "2023-09-11T07:49:21Z",
@@ -2779,10 +2925,10 @@
         "open-source",
         "tutorial"
       ],
-      "stars": 56215,
+      "stars": 56318,
       "archived": false,
       "starred_at": "2023-11-21T01:28:28Z",
-      "pushed_at": "2026-10-05T08:53:28Z",
+      "pushed_at": "2026-10-12T08:44:08Z",
       "category": "学习资源"
     },
     {
@@ -2808,10 +2954,10 @@
         "package-manager",
         "python"
       ],
-      "stars": 8101,
+      "stars": 8104,
       "archived": false,
       "starred_at": "2023-11-18T05:09:15Z",
-      "pushed_at": "2026-09-30T10:00:20Z",
+      "pushed_at": "2026-10-10T13:14:52Z",
       "category": "其他"
     },
     {
@@ -2832,10 +2978,10 @@
         "slack",
         "webrtc"
       ],
-      "stars": 46210,
+      "stars": 46248,
       "archived": false,
       "starred_at": "2023-11-15T00:16:02Z",
-      "pushed_at": "2026-10-05T07:05:23Z",
+      "pushed_at": "2026-10-12T09:00:37Z",
       "category": "Full Stack 开发"
     },
     {
@@ -2848,7 +2994,7 @@
         "machine-learning",
         "pumpkin-book"
       ],
-      "stars": 26107,
+      "stars": 26115,
       "archived": false,
       "starred_at": "2023-11-07T23:57:03Z",
       "pushed_at": "2026-04-22T20:35:48Z",
@@ -2871,7 +3017,7 @@
         "tensorflow-examples",
         "tensorflow-tutorials"
       ],
-      "stars": 6341,
+      "stars": 6343,
       "archived": false,
       "starred_at": "2023-11-03T11:47:55Z",
       "pushed_at": "2020-09-23T15:50:30Z",
@@ -2890,7 +3036,7 @@
         "gpt-4",
         "research-project"
       ],
-      "stars": 33662,
+      "stars": 33649,
       "archived": false,
       "starred_at": "2023-11-02T05:37:25Z",
       "pushed_at": "2026-06-18T18:38:25Z",
@@ -2914,7 +3060,7 @@
       "description": "Stable Diffusion with Core ML on Apple Silicon",
       "language": "Python",
       "topics": [],
-      "stars": 17967,
+      "stars": 17962,
       "archived": false,
       "starred_at": "2023-10-27T06:18:57Z",
       "pushed_at": "2026-09-11T16:04:51Z",
@@ -2930,7 +3076,7 @@
         "macos",
         "stable-diffusion"
       ],
-      "stars": 13601,
+      "stars": 13603,
       "archived": false,
       "starred_at": "2023-10-27T06:17:49Z",
       "pushed_at": "2024-10-30T16:56:14Z",
@@ -2944,7 +3090,7 @@
       "topics": [
         "deeplearning-ai"
       ],
-      "stars": 21131,
+      "stars": 21151,
       "archived": false,
       "starred_at": "2023-10-25T06:01:52Z",
       "pushed_at": "2026-10-05T08:57:58Z",
@@ -2965,7 +3111,7 @@
         "tensorflow",
         "tensorflow2"
       ],
-      "stars": 13205,
+      "stars": 13207,
       "archived": false,
       "starred_at": "2023-10-24T03:05:57Z",
       "pushed_at": "2021-08-30T10:54:30Z",
@@ -2996,7 +3142,7 @@
         "tts",
         "voice-cloning"
       ],
-      "stars": 60168,
+      "stars": 60185,
       "archived": false,
       "starred_at": "2023-10-04T01:31:07Z",
       "pushed_at": "2026-03-09T10:31:58Z",
@@ -3030,7 +3176,7 @@
         "seed",
         "spring-boot"
       ],
-      "stars": 9682,
+      "stars": 9681,
       "archived": false,
       "starred_at": "2023-10-01T12:31:57Z",
       "pushed_at": "2023-12-17T23:35:07Z",
@@ -3047,10 +3193,10 @@
         "redis-gui",
         "redis-gui-client"
       ],
-      "stars": 8881,
+      "stars": 8893,
       "archived": false,
       "starred_at": "2023-09-27T09:20:18Z",
-      "pushed_at": "2026-10-04T23:08:40Z",
+      "pushed_at": "2026-10-11T23:10:36Z",
       "category": "Full Stack 开发"
     },
     {
@@ -3080,7 +3226,7 @@
         "visual-programming",
         "walking"
       ],
-      "stars": 5417,
+      "stars": 5446,
       "archived": false,
       "starred_at": "2023-09-24T07:39:11Z",
       "pushed_at": "2026-09-08T04:50:11Z",
@@ -3110,7 +3256,7 @@
         "hugo-theme",
         "theme"
       ],
-      "stars": 973,
+      "stars": 971,
       "archived": false,
       "starred_at": "2023-09-04T11:31:08Z",
       "pushed_at": "2026-04-01T09:53:11Z",
@@ -3142,10 +3288,10 @@
         "transformers",
         "yolo"
       ],
-      "stars": 10950,
+      "stars": 10983,
       "archived": false,
       "starred_at": "2023-08-27T06:42:18Z",
-      "pushed_at": "2026-10-05T07:48:38Z",
+      "pushed_at": "2026-10-12T09:09:36Z",
       "category": "LLM & 大模型"
     },
     {
@@ -3162,7 +3308,7 @@
         "swiftui",
         "wine"
       ],
-      "stars": 15100,
+      "stars": 15093,
       "archived": true,
       "starred_at": "2023-08-24T09:57:54Z",
       "pushed_at": "2025-05-11T17:50:04Z",
@@ -3195,7 +3341,7 @@
         "react-hooks",
         "typescript"
       ],
-      "stars": 35758,
+      "stars": 35844,
       "archived": false,
       "starred_at": "2023-08-24T09:57:48Z",
       "pushed_at": "2026-09-10T12:56:35Z",
@@ -3211,10 +3357,10 @@
         "mybatis",
         "sql"
       ],
-      "stars": 20449,
+      "stars": 20447,
       "archived": false,
       "starred_at": "2023-08-11T08:02:46Z",
-      "pushed_at": "2026-10-02T16:21:44Z",
+      "pushed_at": "2026-10-11T16:13:22Z",
       "category": "Full Stack 开发"
     },
     {
@@ -3248,7 +3394,7 @@
         "typing-practice",
         "typingspeedtest"
       ],
-      "stars": 23311,
+      "stars": 23371,
       "archived": false,
       "starred_at": "2023-08-09T03:53:39Z",
       "pushed_at": "2026-09-08T06:42:58Z",
@@ -3260,7 +3406,7 @@
       "description": "清华大学飞跃手册",
       "language": "",
       "topics": [],
-      "stars": 449,
+      "stars": 451,
       "archived": false,
       "starred_at": "2023-08-07T08:25:48Z",
       "pushed_at": "2026-08-25T23:44:56Z",
@@ -3282,7 +3428,7 @@
         "web",
         "xkcoding"
       ],
-      "stars": 34084,
+      "stars": 34075,
       "archived": false,
       "starred_at": "2023-08-06T10:06:08Z",
       "pushed_at": "2024-07-24T02:02:52Z",
@@ -3301,7 +3447,7 @@
         "spring-data-jpa",
         "springboot"
       ],
-      "stars": 5262,
+      "stars": 5261,
       "archived": false,
       "starred_at": "2023-08-06T10:01:58Z",
       "pushed_at": "2026-02-02T13:08:52Z",
@@ -3334,7 +3480,7 @@
         "wireshark",
         "wireshark-http"
       ],
-      "stars": 5219,
+      "stars": 5222,
       "archived": false,
       "starred_at": "2023-07-28T15:43:08Z",
       "pushed_at": "2021-03-08T09:59:21Z",
@@ -3355,7 +3501,7 @@
         "python",
         "tcp"
       ],
-      "stars": 18450,
+      "stars": 18467,
       "archived": false,
       "starred_at": "2023-07-26T09:10:46Z",
       "pushed_at": "2024-11-27T06:32:13Z",
@@ -3388,10 +3534,10 @@
         "springcloud",
         "vue3"
       ],
-      "stars": 48082,
+      "stars": 48183,
       "archived": false,
       "starred_at": "2023-07-26T08:59:33Z",
-      "pushed_at": "2026-09-22T14:26:15Z",
+      "pushed_at": "2026-10-12T02:32:27Z",
       "category": "AI Agent"
     },
     {
@@ -3409,7 +3555,7 @@
         "uview",
         "vue"
       ],
-      "stars": 609,
+      "stars": 612,
       "archived": false,
       "starred_at": "2023-07-25T08:38:25Z",
       "pushed_at": "2026-09-29T01:39:41Z",
@@ -3429,7 +3575,7 @@
         "snake-game",
         "svg-animations"
       ],
-      "stars": 6110,
+      "stars": 6121,
       "archived": false,
       "starred_at": "2023-07-23T16:17:57Z",
       "pushed_at": "2026-04-29T21:44:31Z",
@@ -3441,7 +3587,7 @@
       "description": "精益副业：程序员如何优雅地做副业",
       "language": "",
       "topics": [],
-      "stars": 12137,
+      "stars": 12157,
       "archived": false,
       "starred_at": "2023-07-19T00:42:28Z",
       "pushed_at": "2024-03-28T04:22:59Z",
@@ -3457,7 +3603,7 @@
         "spring",
         "springboot"
       ],
-      "stars": 5113,
+      "stars": 5109,
       "archived": false,
       "starred_at": "2023-07-18T06:41:14Z",
       "pushed_at": "2026-03-09T10:02:35Z",
@@ -3469,7 +3615,7 @@
       "description": "A cute running cat animation on your windows taskbar.",
       "language": "C#",
       "topics": [],
-      "stars": 10329,
+      "stars": 10332,
       "archived": false,
       "starred_at": "2023-07-10T14:14:40Z",
       "pushed_at": "2026-07-15T12:19:26Z",
@@ -3489,7 +3635,7 @@
         "dnspod",
         "porkbun"
       ],
-      "stars": 17402,
+      "stars": 17415,
       "archived": false,
       "starred_at": "2023-07-09T09:46:50Z",
       "pushed_at": "2026-09-14T08:42:44Z",
@@ -3518,7 +3664,7 @@
         "upscaling",
         "web"
       ],
-      "stars": 165198,
+      "stars": 165036,
       "archived": false,
       "starred_at": "2023-07-09T09:15:27Z",
       "pushed_at": "2026-03-02T07:00:53Z",
@@ -3542,7 +3688,7 @@
       "description": "MyBatis 从入门到精通",
       "language": "Java",
       "topics": [],
-      "stars": 1347,
+      "stars": 1346,
       "archived": false,
       "starred_at": "2023-07-09T04:31:34Z",
       "pushed_at": "2022-04-09T02:47:09Z",
@@ -3558,10 +3704,10 @@
         "stable-diffusion-webui",
         "stable-diffusion-webui-plugin"
       ],
-      "stars": 4793,
+      "stars": 4792,
       "archived": false,
       "starred_at": "2023-07-08T07:52:49Z",
-      "pushed_at": "2026-09-28T22:25:52Z",
+      "pushed_at": "2026-10-05T23:59:19Z",
       "category": "LLM & 大模型"
     },
     {
@@ -3579,7 +3725,7 @@
         "spring-cloud",
         "spring-cloud-alibaba"
       ],
-      "stars": 20128,
+      "stars": 20125,
       "archived": false,
       "starred_at": "2023-07-03T08:48:18Z",
       "pushed_at": "2024-04-28T06:20:25Z",
@@ -3591,7 +3737,7 @@
       "description": "非正常人类研究中心 存储中国大陆各类非正常女性所为的非正常案件，欢迎补充",
       "language": "",
       "topics": [],
-      "stars": 1521,
+      "stars": 1518,
       "archived": false,
       "starred_at": "2023-07-01T08:31:30Z",
       "pushed_at": "2025-02-14T05:29:15Z",
@@ -3634,7 +3780,7 @@
         "openai",
         "stable-diffusion"
       ],
-      "stars": 6491,
+      "stars": 6488,
       "archived": false,
       "starred_at": "2023-06-11T02:09:49Z",
       "pushed_at": "2026-04-02T15:38:00Z",
@@ -3647,7 +3793,6 @@
       "language": "TypeScript",
       "topics": [
         "calclaude",
-        "chatgpt",
         "claude",
         "cross-platform",
         "desktop",
@@ -3666,10 +3811,10 @@
         "vercel",
         "webui"
       ],
-      "stars": 88828,
+      "stars": 88837,
       "archived": false,
       "starred_at": "2023-06-11T02:09:17Z",
-      "pushed_at": "2026-08-11T02:07:25Z",
+      "pushed_at": "2026-10-08T14:25:26Z",
       "category": "LLM & 大模型"
     },
     {
@@ -3678,10 +3823,10 @@
       "description": "An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!",
       "language": "JavaScript",
       "topics": [],
-      "stars": 34113,
+      "stars": 34121,
       "archived": false,
       "starred_at": "2023-06-04T03:22:27Z",
-      "pushed_at": "2026-10-02T11:11:43Z",
+      "pushed_at": "2026-10-11T13:13:06Z",
       "category": "学习资源"
     },
     {
@@ -3699,7 +3844,7 @@
         "kmp",
         "leetcode"
       ],
-      "stars": 136084,
+      "stars": 135898,
       "archived": false,
       "starred_at": "2023-06-02T14:10:57Z",
       "pushed_at": "2026-02-28T10:07:31Z",
@@ -3711,7 +3856,7 @@
       "description": "Realtime Diffusion, using Automatic1111 Stable Diffusion API",
       "language": "C#",
       "topics": [],
-      "stars": 1777,
+      "stars": 1776,
       "archived": false,
       "starred_at": "2023-05-31T05:15:55Z",
       "pushed_at": "2023-11-25T01:16:54Z",
@@ -3723,7 +3868,7 @@
       "description": "Java后端知识图谱🔥 帮助Java初学者成长",
       "language": "",
       "topics": [],
-      "stars": 18951,
+      "stars": 18945,
       "archived": false,
       "starred_at": "2023-05-09T14:44:41Z",
       "pushed_at": "2024-05-28T13:19:20Z",
@@ -3764,7 +3909,7 @@
         "vue-router",
         "vuex"
       ],
-      "stars": 4662,
+      "stars": 4661,
       "archived": false,
       "starred_at": "2023-04-24T11:39:51Z",
       "pushed_at": "2025-06-10T13:26:50Z",
@@ -3795,10 +3940,10 @@
         "software-architect-roadmap",
         "vue-roadmap"
       ],
-      "stars": 368892,
+      "stars": 369191,
       "archived": false,
       "starred_at": "2023-04-21T15:43:50Z",
-      "pushed_at": "2026-10-05T07:40:22Z",
+      "pushed_at": "2026-10-09T17:39:16Z",
       "category": "学习资源"
     },
     {
@@ -3823,10 +3968,10 @@
         "react",
         "teachers"
       ],
-      "stars": 456771,
+      "stars": 456914,
       "archived": false,
       "starred_at": "2023-04-21T09:03:28Z",
-      "pushed_at": "2026-10-05T09:03:22Z",
+      "pushed_at": "2026-10-12T08:26:03Z",
       "category": "学习资源"
     },
     {
@@ -3837,7 +3982,7 @@
       "topics": [
         "java"
       ],
-      "stars": 3824,
+      "stars": 3826,
       "archived": false,
       "starred_at": "2023-04-21T05:05:05Z",
       "pushed_at": "2024-08-08T12:55:41Z",
@@ -3859,7 +4004,7 @@
         "style-guides",
         "styleguide"
       ],
-      "stars": 6207,
+      "stars": 6206,
       "archived": false,
       "starred_at": "2023-04-21T02:40:41Z",
       "pushed_at": "2025-11-23T04:24:59Z",
@@ -3871,7 +4016,7 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 187079,
+      "stars": 187054,
       "archived": false,
       "starred_at": "2023-04-19T09:51:25Z",
       "pushed_at": "2026-07-29T15:18:29Z",
@@ -3895,10 +4040,10 @@
         "openai",
         "python"
       ],
-      "stars": 187655,
+      "stars": 187529,
       "archived": false,
       "starred_at": "2023-04-18T04:51:22Z",
-      "pushed_at": "2026-10-05T06:39:08Z",
+      "pushed_at": "2026-10-12T09:14:13Z",
       "category": "AI Agent"
     },
     {
@@ -3907,7 +4052,7 @@
       "description": "27天成为Java大神",
       "language": "Java",
       "topics": [],
-      "stars": 14587,
+      "stars": 14597,
       "archived": false,
       "starred_at": "2023-04-16T06:55:07Z",
       "pushed_at": "2024-07-20T03:42:57Z",
@@ -3927,7 +4072,7 @@
         "torrent",
         "torrent-client"
       ],
-      "stars": 2473,
+      "stars": 2475,
       "archived": false,
       "starred_at": "2023-04-16T06:44:26Z",
       "pushed_at": "2026-02-21T22:44:33Z",
@@ -3939,7 +4084,7 @@
       "description": "Simple Dynamic Strings library for C",
       "language": "C",
       "topics": [],
-      "stars": 5575,
+      "stars": 5574,
       "archived": false,
       "starred_at": "2023-04-16T06:37:58Z",
       "pushed_at": "2025-04-18T10:59:31Z",
@@ -3956,7 +4101,7 @@
         "hellogithub",
         "python"
       ],
-      "stars": 180183,
+      "stars": 181512,
       "archived": false,
       "starred_at": "2023-04-16T06:35:29Z",
       "pushed_at": "2026-09-28T00:11:38Z",
@@ -3974,7 +4119,7 @@
         "pointers",
         "torvalds"
       ],
-      "stars": 2294,
+      "stars": 2296,
       "archived": false,
       "starred_at": "2023-04-16T06:33:06Z",
       "pushed_at": "2024-04-24T09:17:06Z",
@@ -3986,7 +4131,7 @@
       "description": "简单描述工作内容，帮你生成完整周报",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3232,
+      "stars": 3230,
       "archived": false,
       "starred_at": "2023-04-09T04:48:32Z",
       "pushed_at": "2026-09-18T07:04:18Z",
@@ -4005,10 +4150,10 @@
         "new-yorker",
         "pdf"
       ],
-      "stars": 37457,
+      "stars": 37810,
       "archived": false,
       "starred_at": "2023-04-04T14:38:45Z",
-      "pushed_at": "2026-10-02T21:46:01Z",
+      "pushed_at": "2026-10-09T21:45:53Z",
       "category": "学习资源"
     },
     {
@@ -4025,17 +4170,17 @@
         "firefox-extension",
         "safari-extension"
       ],
-      "stars": 10755,
+      "stars": 10759,
       "archived": false,
       "starred_at": "2023-04-01T03:32:47Z",
-      "pushed_at": "2026-10-05T01:22:53Z",
+      "pushed_at": "2026-10-12T03:53:29Z",
       "category": "LLM & 大模型"
     },
     {
       "full_name": "OWASP/wstg",
       "url": "https://github.com/OWASP/wstg",
       "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
-      "language": "Python",
+      "language": "CSS",
       "topics": [
         "application-security",
         "appsec",
@@ -4049,10 +4194,10 @@
         "pentesting",
         "security"
       ],
-      "stars": 9963,
+      "stars": 10002,
       "archived": false,
       "starred_at": "2023-03-25T06:01:11Z",
-      "pushed_at": "2026-09-30T16:07:14Z",
+      "pushed_at": "2026-10-12T00:46:09Z",
       "category": "学习资源"
     },
     {
@@ -4094,7 +4239,7 @@
       "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
       "topics": [],
-      "stars": 109980,
+      "stars": 110361,
       "archived": false,
       "starred_at": "2023-03-24T00:23:11Z",
       "pushed_at": "2026-08-31T17:19:19Z",
@@ -4109,7 +4254,7 @@
         "chatgpt",
         "chatgpt-plugins"
       ],
-      "stars": 21242,
+      "stars": 21254,
       "archived": false,
       "starred_at": "2023-03-24T00:22:59Z",
       "pushed_at": "2024-07-04T22:00:16Z",
@@ -4134,7 +4279,7 @@
         "scraper",
         "slack-bot"
       ],
-      "stars": 4409,
+      "stars": 4404,
       "archived": true,
       "starred_at": "2023-03-23T08:42:54Z",
       "pushed_at": "2026-02-05T10:40:28Z",
@@ -4162,7 +4307,7 @@
         "python",
         "python3"
       ],
-      "stars": 75258,
+      "stars": 76014,
       "archived": false,
       "starred_at": "2023-03-19T10:13:12Z",
       "pushed_at": "2026-09-30T08:10:34Z",
@@ -4181,7 +4326,7 @@
         "wechat-plugin",
         "weixin-plugin"
       ],
-      "stars": 22545,
+      "stars": 22536,
       "archived": true,
       "starred_at": "2023-03-17T01:11:25Z",
       "pushed_at": "2025-02-13T21:53:57Z",
@@ -4209,7 +4354,7 @@
         "webview",
         "windows"
       ],
-      "stars": 54584,
+      "stars": 54596,
       "archived": false,
       "starred_at": "2023-03-06T06:51:27Z",
       "pushed_at": "2024-08-29T17:58:11Z",
@@ -4221,7 +4366,7 @@
       "description": "Make bilingual epub books Using AI translate",
       "language": "Python",
       "topics": [],
-      "stars": 9832,
+      "stars": 9870,
       "archived": false,
       "starred_at": "2023-03-06T03:19:19Z",
       "pushed_at": "2026-09-30T20:24:12Z",
@@ -4249,7 +4394,7 @@
         "chatgpt3",
         "siri"
       ],
-      "stars": 1711,
+      "stars": 1710,
       "archived": false,
       "starred_at": "2023-03-02T06:48:20Z",
       "pushed_at": "2023-10-25T12:45:02Z",
@@ -4279,7 +4424,7 @@
         "course-project",
         "tsinghua-university"
       ],
-      "stars": 37668,
+      "stars": 37840,
       "archived": false,
       "starred_at": "2022-11-22T07:57:54Z",
       "pushed_at": "2026-09-17T14:23:19Z",
@@ -4312,10 +4457,10 @@
         "pi-hole",
         "surge"
       ],
-      "stars": 10816,
+      "stars": 10833,
       "archived": false,
       "starred_at": "2022-11-12T06:59:36Z",
-      "pushed_at": "2026-10-04T21:43:04Z",
+      "pushed_at": "2026-10-10T21:53:56Z",
       "category": "工具脚本"
     },
     {
@@ -4324,7 +4469,7 @@
       "description": "",
       "language": "C++",
       "topics": [],
-      "stars": 5960,
+      "stars": 5963,
       "archived": false,
       "starred_at": "2022-11-09T16:11:46Z",
       "pushed_at": "2026-03-04T02:51:38Z",
@@ -4362,7 +4507,7 @@
       "description": "计算机网络笔记",
       "language": "",
       "topics": [],
-      "stars": 1011,
+      "stars": 1010,
       "archived": false,
       "starred_at": "2022-11-08T00:56:16Z",
       "pushed_at": "2022-08-19T10:48:43Z",
@@ -4377,7 +4522,7 @@
         "leetcode",
         "leetcode-java"
       ],
-      "stars": 2682,
+      "stars": 2681,
       "archived": false,
       "starred_at": "2022-11-07T14:49:28Z",
       "pushed_at": "2023-08-29T00:21:28Z",
@@ -4392,7 +4537,7 @@
         "algorithm",
         "cpp11"
       ],
-      "stars": 1269,
+      "stars": 1271,
       "archived": false,
       "starred_at": "2022-11-07T12:33:44Z",
       "pushed_at": "2021-11-30T16:41:53Z",
@@ -4409,7 +4554,7 @@
         "translation",
         "tutorial"
       ],
-      "stars": 22171,
+      "stars": 22176,
       "archived": false,
       "starred_at": "2022-10-10T15:15:00Z",
       "pushed_at": "2023-01-18T11:23:31Z",
@@ -4421,7 +4566,7 @@
       "description": "更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/",
       "language": "",
       "topics": [],
-      "stars": 5881,
+      "stars": 5910,
       "archived": false,
       "starred_at": "2022-10-03T02:46:34Z",
       "pushed_at": "2026-09-07T22:44:28Z",
@@ -4433,7 +4578,7 @@
       "description": "https://survivesjtu.github.io/SJTU-Application/#/",
       "language": "JavaScript",
       "topics": [],
-      "stars": 1990,
+      "stars": 1998,
       "archived": false,
       "starred_at": "2022-10-03T02:45:42Z",
       "pushed_at": "2024-02-07T01:22:59Z",
@@ -4445,7 +4590,7 @@
       "description": "成本100万人民币拿15张枫叶卡零基础教程（程序员篇）",
       "language": "",
       "topics": [],
-      "stars": 271,
+      "stars": 269,
       "archived": false,
       "starred_at": "2022-09-29T15:48:12Z",
       "pushed_at": "2022-09-29T05:47:39Z",
@@ -4479,7 +4624,7 @@
         "security",
         "websecurity"
       ],
-      "stars": 1212,
+      "stars": 1217,
       "archived": false,
       "starred_at": "2022-09-10T08:07:53Z",
       "pushed_at": "2026-06-01T01:16:49Z",
@@ -4491,7 +4636,7 @@
       "description": "A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》",
       "language": "C++",
       "topics": [],
-      "stars": 5499,
+      "stars": 5497,
       "archived": false,
       "starred_at": "2022-08-18T10:24:30Z",
       "pushed_at": "2026-02-27T06:17:29Z",
@@ -4503,7 +4648,7 @@
       "description": "一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。",
       "language": "C++",
       "topics": [],
-      "stars": 8301,
+      "stars": 8312,
       "archived": false,
       "starred_at": "2022-08-18T10:13:47Z",
       "pushed_at": "2024-05-20T12:11:08Z",
@@ -4533,7 +4678,7 @@
         "study",
         "writeup"
       ],
-      "stars": 5727,
+      "stars": 5730,
       "archived": false,
       "starred_at": "2022-08-18T10:13:25Z",
       "pushed_at": "2024-06-06T02:54:19Z",
@@ -4564,10 +4709,10 @@
         "vue",
         "weibo"
       ],
-      "stars": 27308,
+      "stars": 27334,
       "archived": false,
       "starred_at": "2022-08-16T02:52:07Z",
-      "pushed_at": "2026-10-05T09:05:57Z",
+      "pushed_at": "2026-10-10T00:21:24Z",
       "category": "Full Stack 开发"
     },
     {
@@ -4576,7 +4721,7 @@
       "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)",
       "language": "",
       "topics": [],
-      "stars": 36407,
+      "stars": 36423,
       "archived": false,
       "starred_at": "2022-08-12T11:26:10Z",
       "pushed_at": "2025-02-03T05:15:20Z",
@@ -4591,7 +4736,7 @@
       "stars": 1,
       "archived": false,
       "starred_at": "2022-08-12T11:18:33Z",
-      "pushed_at": "2026-10-04T18:19:22Z",
+      "pushed_at": "2026-10-12T06:00:47Z",
       "category": "其他"
     },
     {
@@ -4644,7 +4789,7 @@
         "tun",
         "vpn"
       ],
-      "stars": 22616,
+      "stars": 22650,
       "archived": false,
       "starred_at": "2022-08-09T15:07:43Z",
       "pushed_at": "2026-10-05T06:54:59Z",
@@ -4686,7 +4831,7 @@
         "python",
         "system-design"
       ],
-      "stars": 186371,
+      "stars": 186209,
       "archived": false,
       "starred_at": "2022-08-09T10:26:56Z",
       "pushed_at": "2024-08-21T09:40:10Z",
@@ -4713,7 +4858,7 @@
       "stars": 92,
       "archived": false,
       "starred_at": "2022-08-08T15:48:38Z",
-      "pushed_at": "2026-10-05T03:02:24Z",
+      "pushed_at": "2026-10-12T03:18:16Z",
       "category": "Full Stack 开发"
     },
     {
@@ -4742,7 +4887,7 @@
         "security-researchers",
         "sysops"
       ],
-      "stars": 247967,
+      "stars": 249406,
       "archived": false,
       "starred_at": "2022-08-08T09:56:23Z",
       "pushed_at": "2024-11-19T14:00:38Z",
@@ -4754,7 +4899,7 @@
       "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
       "language": "",
       "topics": [],
-      "stars": 32124,
+      "stars": 32125,
       "archived": false,
       "starred_at": "2022-04-12T15:23:04Z",
       "pushed_at": "2024-07-31T03:44:51Z",

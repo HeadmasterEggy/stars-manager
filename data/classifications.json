@@ -115,8 +115,20 @@
     "category": "其他",
     "source": "rule"
   },
+  "DuarteSantos8/openGym": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
   "Dzy0726/Sentiment-Analysis-of-Customer-Reviews": {
     "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "Ephemeral-AI-Lab/layerfs": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
+  "EverMind-AI/Raven": {
+    "category": "AI Agent",
     "source": "rule"
   },
   "Fictiverse/Redream": {
@@ -695,8 +707,8 @@
     "category": "Full Stack 开发",
     "source": "rule"
   },
-  "liu-ziting/what-to-eat": {
-    "category": "LLM & 大模型",
+  "liseami/CCBaga": {
+    "category": "其他",
     "source": "rule"
   },
   "lucasmarkes/hairline": {
@@ -791,6 +803,10 @@
     "category": "Full Stack 开发",
     "source": "rule"
   },
+  "neilsonnn/image-blaster": {
+    "category": "其他",
+    "source": "rule"
+  },
   "netchx/netch": {
     "category": "其他",
     "source": "rule"
@@ -827,6 +843,10 @@
     "category": "AI Agent",
     "source": "rule"
   },
+  "openai/math": {
+    "category": "其他",
+    "source": "rule"
+  },
   "openai/whisper": {
     "category": "其他",
     "source": "rule"
@@ -861,6 +881,10 @@
   },
   "pinchtab/pinchtab": {
     "category": "Full Stack 开发",
+    "source": "rule"
+  },
+  "poteto/hiring-without-whiteboards": {
+    "category": "学习资源",
     "source": "rule"
   },
   "privacy-protection-tools/anti-AD": {
@@ -907,6 +931,10 @@
     "category": "其他",
     "source": "rule"
   },
+  "shijianzhong/rea": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
   "skypilot-org/skypilot": {
     "category": "LLM & 大模型",
     "source": "rule"
@@ -917,6 +945,10 @@
   },
   "tensorflow/tensor2tensor": {
     "category": "LLM & 大模型",
+    "source": "rule"
+  },
+  "tester-army/e2e": {
+    "category": "Full Stack 开发",
     "source": "rule"
   },
   "thedotmack/claude-mem": {
