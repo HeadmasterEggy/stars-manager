@@ -771,6 +771,10 @@
     "category": "其他",
     "source": "rule"
   },
+  "morluto/rea": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
   "mraible/jhipster7-demo": {
     "category": "Full Stack 开发",
     "source": "rule"
