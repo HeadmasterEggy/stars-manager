@@ -135,6 +135,10 @@
     "category": "LLM & 大模型",
     "source": "rule"
   },
+  "GoogleCloudPlatform/scion": {
+    "category": "其他",
+    "source": "rule"
+  },
   "HCLonely/hexo-calendar": {
     "category": "Full Stack 开发",
     "source": "rule"
@@ -180,7 +184,7 @@
     "source": "rule"
   },
   "Jakubantalik/Libraries.dev": {
-    "category": "AI Agent",
+    "category": "其他",
     "source": "rule"
   },
   "JimLiu/baoyu-design": {
@@ -332,6 +336,10 @@
     "source": "rule"
   },
   "X1a0He/Adobe-Downloader": {
+    "category": "其他",
+    "source": "rule"
+  },
+  "Zagitta/gpu-unlock": {
     "category": "其他",
     "source": "rule"
   },
@@ -611,6 +619,10 @@
     "category": "LLM & 大模型",
     "source": "rule"
   },
+  "hunterschep/canvas-lms-codex-plugin": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
   "iamseancheney/python_for_data_analysis_2nd_chinese_version": {
     "category": "其他",
     "source": "rule"
@@ -709,6 +721,10 @@
   },
   "liseami/CCBaga": {
     "category": "其他",
+    "source": "rule"
+  },
+  "liu-ziting/what-to-eat": {
+    "category": "LLM & 大模型",
     "source": "rule"
   },
   "lucasmarkes/hairline": {
@@ -879,6 +895,10 @@
     "category": "学习资源",
     "source": "rule"
   },
+  "peach-mitao/peach": {
+    "category": "Full Stack 开发",
+    "source": "rule"
+  },
   "piglei/ai-vocabulary-builder": {
     "category": "工具脚本",
     "source": "rule"
@@ -992,7 +1012,7 @@
     "source": "rule"
   },
   "vinvcn/mattpocock-skills-zh-CN": {
-    "category": "其他",
+    "category": "AI Agent",
     "source": "rule"
   },
   "virus010101/linfeng-community": {
