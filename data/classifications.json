@@ -611,6 +611,10 @@
     "category": "学习资源",
     "source": "rule"
   },
+  "hmjz100/LinkSwift": {
+    "category": "工具脚本",
+    "source": "rule"
+  },
   "huangserva/ComfyUI_MiniMaxH3_Director": {
     "category": "其他",
     "source": "rule"
@@ -839,6 +843,10 @@
     "category": "学习资源",
     "source": "rule"
   },
+  "nlzy/turing-unlock": {
+    "category": "其他",
+    "source": "rule"
+  },
   "oldwinter/knowledge-garden": {
     "category": "学习资源",
     "source": "rule"
@@ -888,7 +896,7 @@
     "source": "rule"
   },
   "pbakaus/impeccable": {
-    "category": "其他",
+    "category": "AI Agent",
     "source": "rule"
   },
   "pcottle/learnGitBranching": {
@@ -1019,6 +1027,10 @@
     "category": "Full Stack 开发",
     "source": "rule"
   },
+  "wangzan101/Mika": {
+    "category": "AI Agent",
+    "source": "rule"
+  },
   "wind-liang/leetcode": {
     "category": "学习资源",
     "source": "rule"
@@ -1048,7 +1060,7 @@
     "source": "rule"
   },
   "xming521/WeClone": {
-    "category": "LLM & 大模型",
+    "category": "AI Agent",
     "source": "rule"
   },
   "yangheng95/ABSADatasets": {
